@@ -6,7 +6,7 @@
 # **INTRODUCCIÓN**
 *En este repositorio se subirán todos los entregables e informes que se iran trabajando durante el curso.*
 
-*Estamos interesados en desarrollar e implementar soluciones de energía sostenible en Perú, centradas en el uso de fuentes renovables. Nuestro objetivo es proporcionar acceso a energía asequible sin comprometer los ecosistemas.*
+*Estamos interesados en desarrollar e implementar soluciones de energía sostenible en Perú, centradas en el uso de fuentes renovables.*
 
 "PROYECTO DESTILADOR SOLAR"
 
