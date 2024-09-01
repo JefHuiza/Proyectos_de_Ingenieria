@@ -37,7 +37,7 @@ En la actualidad, uno de los problemas más críticos a nivel mundial es el acce
 ## **OBJETIVO:**
 Desarrollar y validar un destilador solar de bajo costo para producir agua potable y agrícola a partir de agua de océano.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cffd39e8-b249-4698-b3f7-9a9d41670421" alt="Imagen 1" width="200px" />
+<img src="https://github.com/user-attachments/assets/cffd39e8-b249-4698-b3f7-9a9d41670421" alt="Imagen 1" width="300px" />
 </p>
 
 # **Bibliografía**
