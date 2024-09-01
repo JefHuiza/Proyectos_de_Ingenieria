@@ -38,3 +38,5 @@ En la actualidad, uno de los problemas más críticos a nivel mundial es el acce
   - 7. Energía asequible y no contaminante . (s/f). Agenda2030lac.org. Recuperado el 1 de septiembre de 2024, de https://agenda2030lac.org/es/ods/7-energia-asequible-y-no-contaminante
   - ODS 11 Ciudades y comunidades sostenibles | Pacto Mundial ONU. (2024, 1 agosto). Pacto Mundial. https://www.pactomundial.org/ods/11-ciudades-y-comunidades-sostenibles/
 
+
+**¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
