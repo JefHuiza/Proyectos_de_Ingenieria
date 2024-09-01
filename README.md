@@ -27,11 +27,15 @@ En la actualidad, uno de los problemas más críticos a nivel mundial es el acce
   <img src="https://github.com/user-attachments/assets/94e057c3-785a-41a0-b661-d82e6e900cfa" alt="Imagen 3" width="200px" />
 </p>
 
+>United Nations Web
+
 ## **Definicion de las ODS:**
 - ODS 6:Busca garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos.
 - ODS 7:Busca garantizar el acceso a una energía limpia y asequible, clave para el desarrollo de la agricultura, las empresas,etc.
 - ODS 11:Pretende lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.
 
+## **OBJETIVO:**
+Desarrollar y validar un destilador solar de bajo costo para producir agua potable y agrícola a partir de agua de océano.
 
 # **Bibliografía**
   - ODS 6 Agua limpia y saneamiento . (2021, 11 de octubre). Pacto Mundial. https://www.pactomundial.org/ods/6-agua-limpia-y-saneamiento/
