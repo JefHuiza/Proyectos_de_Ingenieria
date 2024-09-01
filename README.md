@@ -6,7 +6,7 @@
 # **INTRODUCCIÓN**
 *En este repositorio se subirán todos los entregables e informes que se iran trabajando durante el curso.*
 
-*Estamos interesados en desarrollar e implementar soluciones de energía sostenible en Perú, centradas en el uso de fuentes renovables.*
+*El acceso al agua potable es un problema global crítico por ello estamos interesados en desarrollar e implementar un destilador solar económico y eficiente*
 
 "PROYECTO DESTILADOR SOLAR"
 
