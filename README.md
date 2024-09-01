@@ -30,7 +30,6 @@
 
 # **Bibliografía**
   - ODS 6 Agua limpia y saneamiento . (2021, 11 de octubre). Pacto Mundial. https://www.pactomundial.org/ods/6-agua-limpia-y-saneamiento/
-  - Naciones Unidas. (s/f). Objetivo 7—Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos | Naciones Unidas. Recuperado el 1 de septiembre de 2024, de 
-    https://www.un.org/es/chronicle/article/objetivo-7-garantizar-el-acceso-una-energia-asequible-fiable-sostenible-y-moderna-para-todos
+  - 7. Energía asequible y no contaminante . (s/f). Agenda2030lac.org. Recuperado el 1 de septiembre de 2024, de https://agenda2030lac.org/es/ods/7-energia-asequible-y-no-contaminante
   - ODS 11 Ciudades y comunidades sostenibles | Pacto Mundial ONU. (2024, 1 agosto). Pacto Mundial. https://www.pactomundial.org/ods/11-ciudades-y-comunidades-sostenibles/
 
