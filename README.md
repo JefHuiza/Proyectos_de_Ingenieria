@@ -8,6 +8,11 @@
 
 *Estamos interesados en desarrollar e implementar soluciones de energía sostenible en Perú, centradas en el uso de fuentes renovables. Nuestro objetivo es proporcionar acceso a energía asequible sin comprometer los ecosistemas.*
 
+"PROYECTO DESTILADOR SOLAR"
+
+En la actualidad, uno de los problemas más críticos a nivel mundial es el acceso universal al agua potable  y al agua libre de contaminantes para el riego de cultivos. Este artículo presenta la adaptación de un método innovador de desalinización de agua de océano,  un dispositivo de bajo costo que emplea la destilación solar  para la obtención de agua baja en sales, que puede ser empleada tanto para consumo humano como para la agricultura, según la calidad del mismo. El dispositivo se basa en un  diseño esférico con una alta eficiencia en el proceso de desalinización, obteniendo datos prometedores para los parámetros de conductividad, pH,  dureza total y turbidez. Para validar la metodología, los parámetros caracterizados del agua obtenida, se compararon con los Estándares de Calidad Ambiental (ECA) para agua, dando como primer resultado, una empleabilidad del agua para uso agrícola. 
+
+
 ## **Integrantes:**
 - Joaquin Felipe Carpio Peralta
 - Jeferson Juvenal Huiza Quispe
