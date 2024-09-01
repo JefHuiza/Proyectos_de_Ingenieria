@@ -29,5 +29,6 @@
 
 
 # **Bibliografía**
+  - ODS 6 Agua limpia y saneamiento . (2021, 11 de octubre). Pacto Mundial. https://www.pactomundial.org/ods/6-agua-limpia-y-saneamiento/
   - ODS 11 Ciudades y comunidades sostenibles | Pacto Mundial ONU. (2024, 1 agosto). Pacto Mundial. https://www.pactomundial.org/ods/11-ciudades-y-comunidades-sostenibles/
 
