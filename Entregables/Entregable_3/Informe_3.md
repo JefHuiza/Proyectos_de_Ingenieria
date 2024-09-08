@@ -102,6 +102,6 @@ Además, nos encontramos con problemas en la comunicación entre el modelo y los
 
 En coclusion, este proyecto de reconocimiento se pudo obtener las espectativas que se esperó, esto nos brindó más que solo el dominio de herramientas y tecnologías como Teachable Machine, Edge Impulse, y Arduino Nano 33 BLE. Nos permitió además experimentar de primera mano los retos y beneficios de trabajar con TinyML, y nos preparó para enfrentar problemas complejos en el desarrollo de soluciones de inteligencia artificial en hardware de baja potencia. Aprender a crear modelos de machine learning eficientes y ejecutarlos en dispositivos embebidos es una habilidad clave en la innovación tecnológica moderna, y esta experiencia nos ha dado un fundamento sólido para avanzar en el campo de la inteligencia artificial, permitiéndonos incluso aportar soluciones tecnológicas más inteligentes y sostenibles en el futuro.
 # **Referencias**
-[1]: Tardif, A. (2023). TinyML: el futuro del aprendizaje automático en una escala minúscula. https://www.unite.ai/es/tinyml-the-future-of-machine-learning-on-a-minuscule-scale/
+[^1]: Tardif, A. (2023). TinyML: el futuro del aprendizaje automático en una escala minúscula. https://www.unite.ai/es/tinyml-the-future-of-machine-learning-on-a-minuscule-scale/
 
 DataScientest. (2024). TinyML: La revolución de la IA en dispositivos de baja potencia. DataScientest. https://datascientest.com/es/tinyml-todo-sobre
