@@ -25,6 +25,7 @@ A continuacion se muestran las herramientas utilizadas en el desarollo e impleme
   <img src="https://github.com/user-attachments/assets/7b0f2feb-130a-42d4-aa1c-44848a5c339b" alt="Imagen 2" width="400px" />
 </p>
 
+**Recolección de Datos:**
 
 # **Resultados**
 # **Discusión** 
