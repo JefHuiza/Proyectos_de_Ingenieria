@@ -13,7 +13,7 @@ Este demostrador no solo prueba cómo se realizan tareas mucho más significativ
 
 # **Metodología**
 **Selección de Hardware y Herramientas:**
-
+A continuacion se muestran las herramientas utilizadas en el desarollo e implementacion del modelo de TinyML
 ### Arduino Nano 33 BLE Sense
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62dc15a7-a4e0-42c8-a3a0-34b92a64dff9" alt="Imagen 1" width="200px" />
