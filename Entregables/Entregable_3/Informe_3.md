@@ -13,10 +13,17 @@ Este demostrador no solo prueba cómo se realizan tareas mucho más significativ
 
 # **Metodología**
 **Selección de Hardware y Herramientas:**
+
+#### Arduino Nano 33 BLE Sense
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62dc15a7-a4e0-42c8-a3a0-34b92a64dff9" alt="Imagen 1" width="200px" />
+</p>
+
+#### Edge Impulse
+<p align="center">
   <img src="https://github.com/user-attachments/assets/978addf7-a8b4-4178-8606-f6f71630553a" alt="Imagen 2" width="400px" />
 </p>
+
 
 # **Resultados**
 # **Discusión** 
