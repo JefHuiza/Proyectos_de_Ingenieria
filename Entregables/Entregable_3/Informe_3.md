@@ -38,6 +38,16 @@ Los datos reformateados se cargaron en Edge Impulse, donde se entrenó un modelo
   <img src="https://github.com/user-attachments/assets/99d52f89-940a-4ede-a5e2-9f379f62a67e" alt="Imagen 2" width="350px" />
 </p>
 
+En el entrenamiento de nuestro modelo logramos obetener un 91.1% de exactitud y una pérdida de 0.29 en general,con respecto a esta informacion el modelo resulto ser eficiente.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f0271fb-d0c1-43a0-b9aa-dcf1442c07eb" alt="Imagen 2" width="400px" />
+</p>
+
+Tenemos la imagen de la exploracion de los datos
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80df7a1b-0323-41db-a1ff-f47a04a937b7" alt="Imagen 2" width="400px" />
+</p>
+
 ###	**Implementación en Arduino:** 
 Una vez que se descargó el modelo entrenado, se utilizó en el IDE de Arduino para desarrollar el código que detecta las formas correspondientes y enciende el LED adecuado.
 
