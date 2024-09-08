@@ -12,7 +12,7 @@ El siguiente informe presenta el desarrollo de un modelo de TinyML que opera en 
 Este demostrador no solo prueba cómo se realizan tareas mucho más significativas en limitaciones de hardware: el laboratori del potencial de TinyML y elaprendizaje automático vidimamente en la vida real aplicaciones donde el LED actúa como un dispositivo bidireccional buceta de la entrada y salida del usuario.
 
 # **Metodología**
-**Selección de Hardware y Herramientas:**
+**2.1 Selección de Hardware y Herramientas:**
 
 A continuacion se muestran las herramientas utilizadas en el desarollo e implementacion del modelo de TinyML
 ### Arduino Nano 33 BLE Sense
@@ -25,7 +25,7 @@ A continuacion se muestran las herramientas utilizadas en el desarollo e impleme
   <img src="https://github.com/user-attachments/assets/7b0f2feb-130a-42d4-aa1c-44848a5c339b" alt="Imagen 2" width="400px" />
 </p>
 
-**Recolección de Datos:**
+**2.2 Recolección de Datos:**
 
 # **Resultados**
 # **Discusión** 
