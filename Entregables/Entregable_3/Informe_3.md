@@ -3,7 +3,7 @@
 </p>
 
 
-**Introducción**
+#**Introducción**#
 
 Hoy en día, la IA en dispositivos de baja potencia y hardware incrustado ha sido cada vez más común en varias industrias 
 porque la mayoría de las soluciones deben ser eficientes y portátiles. TinyML se basa en las redes neuronales artificiales, que 
