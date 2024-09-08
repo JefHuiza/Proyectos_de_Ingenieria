@@ -46,3 +46,4 @@ El modelo de TinyML entrenado en Edge Impulse fue capaz de clasificar con éxito
 # **Discusión** 
 # **Referencias**
 Tardif, A. (2023). TinyML: el futuro del aprendizaje automático en una escala minúscula. https://www.unite.ai/es/tinyml-the-future-of-machine-learning-on-a-minuscule-scale/
+DataScientest. (2024). TinyML: La revolución de la IA en dispositivos de baja potencia. DataScientest. Recuperado de https://datascientest.com/es/tinyml-todo-sobre
