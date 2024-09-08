@@ -14,8 +14,8 @@ Este demostrador no solo prueba cómo se realizan tareas mucho más significativ
 # **Metodología**
 **Selección de Hardware y Herramientas:**
 <p align="center">
-  <img src="Imagen de WhatsApp 2024-09-06 a las 13 05 16_33a24604](https://github.com/user-attachments/assets/ecca23b8-b885-4ac6-8a27-131176f1ccdc" alt="Imagen 1" width="200px" />
-  <img src="Imagen de WhatsApp 2024-09-07 a las 16 50 36_21af9e27](https://github.com/user-attachments/assets/d6e5b90e-c29f-4531-a738-7a55bb1c6b2a" alt="Imagen 2" width="200px" />
+  <img src="Imagen de WhatsApp 2024-09-06 a las 13 05 16_33a24604" alt="Imagen 1" width="200px" />
+  <img src="Imagen de WhatsApp 2024-09-07 a las 16 50 36_21af9e27" alt="Imagen 2" width="200px" />
 </p>
 
 # **Resultados**
