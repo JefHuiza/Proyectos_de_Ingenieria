@@ -22,7 +22,7 @@ A continuacion se muestran las herramientas utilizadas en el desarollo e impleme
 
 ### Edge Impulse
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9781270a-b691-424c-90a8-09126fed62a7" alt="Imagen 2" width="400px" />
+  <img src="https://github.com/user-attachments/assets/7b0f2feb-130a-42d4-aa1c-44848a5c339b" alt="Imagen 2" width="400px" />
 </p>
 
 
