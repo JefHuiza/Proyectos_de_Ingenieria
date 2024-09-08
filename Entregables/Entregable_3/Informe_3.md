@@ -12,6 +12,9 @@ El siguiente informe presenta el desarrollo de un modelo de TinyML que opera en 
 Este demostrador no solo prueba cómo se realizan tareas mucho más significativas en limitaciones de hardware: el laboratori del potencial de TinyML y elaprendizaje automático vidimamente en la vida real aplicaciones donde el LED actúa como un dispositivo bidireccional buceta de la entrada y salida del usuario.
 
 # **Metodología**
+**Selección de Hardware y Herramientas:**
+
+
 # **Resultados**
 # **Discusión** 
 # **Referencias**
