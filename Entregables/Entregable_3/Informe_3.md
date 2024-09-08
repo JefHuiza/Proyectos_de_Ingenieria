@@ -105,3 +105,5 @@ En coclusion, este proyecto de reconocimiento se pudo obtener las espectativas q
 [^1]: Tardif, A. (2023). TinyML: el futuro del aprendizaje automático en una escala minúscula. https://www.unite.ai/es/tinyml-the-future-of-machine-learning-on-a-minuscule-scale/
 
 [^2]: DataScientest. (2024). TinyML: La revolución de la IA en dispositivos de baja potencia. DataScientest. https://datascientest.com/es/tinyml-todo-sobre
+[^3]: C.-K. Kwon, “Development of embedded machine learning finger number recognition application using edge impulse platform,” in 2023 Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE), 2023, vol. 22, pp. 2697–2699. doi: 10.1109/csce60160.2023.00433 
+
