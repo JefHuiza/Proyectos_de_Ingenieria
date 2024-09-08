@@ -58,8 +58,6 @@ En nuestro proyecto, nos enfocamos en desarrollar un sistema de reconocimiento d
 
 1. Teachable Machine: entrenamiento del modelo para reconocimiento de figuras.
 
-Comenzamos utilizando Teachable Machine para entrenar el modelo. Queríamos que el sistema reconociera visualmente figuras simples como un círculo y los números 3 y 1, para luego asignar una acción específica a cada una (por ejemplo, encender diferentes LEDs).
-
 El primer desafío fue reunir suficientes imágenes para entrenar el modelo. Aunque Teachable Machine es intuitiva, rápidamente nos dimos cuenta de que la cantidad de datos de entrada era clave. Si el modelo no tenía suficientes imágenes claras de cada figura, los resultados eran inconsistentes. Tuvimos que capturar muchas imágenes en diferentes condiciones de iluminación y desde diferentes ángulos para asegurar que el sistema pudiera reconocer cada figura de manera confiable.
 
 Además, tuvimos que ajustar el modelo para evitar que reconociera erróneamente figuras similares o que cometiera confusiones entre el número 1 y otras formas alargadas. Encontrar el balance entre la cantidad de datos y la precisión del modelo fue un reto en esta fase.
@@ -72,19 +70,13 @@ Otro reto fue optimizar el modelo para que fuera lo suficientemente ligero como 
 
  3. Arduino Nano 33 BLE: integración y problemas con los LEDs
 
-Una vez que optimizamos el modelo, procedimos a integrarlo en el Arduino Nano 33 BLE. Aquí fue donde enfrentamos los mayores desafíos. El objetivo era hacer que el Arduino interpretara las figuras reconocidas y encendiera los LEDs correspondientes. Por ejemplo, si reconocía un círculo, se encendía un LED; si veía el número 3 o el número 1, otros LEDs se activaban.
+Una vez que optimizamos el modelo, aquí fue donde enfrentamos los mayores desafíos. El objetivo era hacer que el Arduino interpretara las figuras reconocidas y encendiera los LEDs correspondientes. Por ejemplo, si reconocía un círculo, se encendía un LED; si veía el número 3 o el número 1, otros LEDs se activaban.
 
 Además, nos encontramos con problemas en la comunicación entre el modelo y los LEDs. Aunque el Arduino recibía la salida del modelo, no siempre encendía los LEDs correctamente. Esto requería ajustes en el código para asegurarnos de que las señales de salida del modelo se tradujeran correctamente en las acciones esperadas.
 
 
 
- 4. Lecciones aprendidas y mejoras futuras
-A lo largo del proyecto, aprendimos varias lecciones importantes que aplicaremos en futuros desarrollos:
-- Recolectar más datos: La cantidad de imágenes que utilizamos para entrenar el modelo resultó ser crítica. En futuros proyectos, nos aseguraremos de recolectar aún más datos y probarlos en diversas condiciones para mejorar la precisión del modelo.
 
-
-
-- Optimización gradual: Nos dimos cuenta de que la mejor forma de ajustar el modelo es hacerlo de manera incremental. Optimizar demasiado el modelo desde el principio llevó a problemas de precisión, por lo que ahora sabemos que es mejor hacerlo poco a poco y probar los resultados en cada etapa.
 
 
 
