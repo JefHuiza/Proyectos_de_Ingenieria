@@ -54,6 +54,40 @@ https://github.com/user-attachments/assets/38127279-16a0-48d3-93e6-53ec249c6aa5
 
 
 # **Discusión** 
+En nuestro proyecto, nos enfocamos en desarrollar un sistema de reconocimiento de figuras y números —como un círculo, el número 3 y el número 1— y vincular ese reconocimiento con la activación de LEDs en un Arduino Nano 33 BLE. A lo largo del desarrollo, nos encontramos con varios desafíos tanto en la parte de entrenamiento del modelo como en la integración con el hardware, que hicieron el proceso mucho más complejo de lo que esperábamos. Aquí discutimos los detalles del proyecto y los obstáculos que enfrentamos.
+
+1. Teachable Machine: entrenamiento del modelo para reconocimiento de figuras.
+
+Comenzamos utilizando Teachable Machine para entrenar el modelo. Queríamos que el sistema reconociera visualmente figuras simples como un círculo y los números 3 y 1, para luego asignar una acción específica a cada una (por ejemplo, encender diferentes LEDs).
+
+El primer desafío fue reunir suficientes imágenes para entrenar el modelo. Aunque Teachable Machine es intuitiva, rápidamente nos dimos cuenta de que la cantidad de datos de entrada era clave. Si el modelo no tenía suficientes imágenes claras de cada figura, los resultados eran inconsistentes. Tuvimos que capturar muchas imágenes en diferentes condiciones de iluminación y desde diferentes ángulos para asegurar que el sistema pudiera reconocer cada figura de manera confiable.
+
+Además, tuvimos que ajustar el modelo para evitar que reconociera erróneamente figuras similares o que cometiera confusiones entre el número 1 y otras formas alargadas. Encontrar el balance entre la cantidad de datos y la precisión del modelo fue un reto en esta fase.
+
+2. Edge Impulse: optimización y transición al Arduino
+
+Una vez que logramos entrenar el modelo en Teachable Machine, lo pasamos a Edge Impulse para optimizarlo y prepararlo para su ejecución en el Arduino Nano 33 BLE. Aquí nos encontramos con algunos problemas técnicos. El primero fue la compatibilidad del formato del modelo. Hubo momentos en que el modelo exportado desde Teachable Machine no era aceptado de inmediato en Edge Impulse, lo que requirió algunos ajustes en el formato de los datos y en cómo configurábamos las entradas y salidas del modelo.
+
+Otro reto fue optimizar el modelo para que fuera lo suficientemente ligero como para ejecutarse en el Arduino. Aunque Edge Impulse ofrece herramientas para reducir el tamaño del modelo, nos dimos cuenta de que, si lo optimizábamos demasiado, el reconocimiento de las figuras se volvía impreciso. Hubo que encontrar un punto medio entre rendimiento y precisión para que el sistema reconociera las figuras correctamente y a la vez pudiera ejecutarse en un dispositivo de recursos limitados.
+
+ 3. Arduino Nano 33 BLE: integración y problemas con los LEDs
+
+Una vez que optimizamos el modelo, procedimos a integrarlo en el Arduino Nano 33 BLE. Aquí fue donde enfrentamos los mayores desafíos. El objetivo era hacer que el Arduino interpretara las figuras reconocidas y encendiera los LEDs correspondientes. Por ejemplo, si reconocía un círculo, se encendía un LED; si veía el número 3 o el número 1, otros LEDs se activaban.
+
+Además, nos encontramos con problemas en la comunicación entre el modelo y los LEDs. Aunque el Arduino recibía la salida del modelo, no siempre encendía los LEDs correctamente. Esto requería ajustes en el código para asegurarnos de que las señales de salida del modelo se tradujeran correctamente en las acciones esperadas.
+
+
+
+ 4. Lecciones aprendidas y mejoras futuras
+A lo largo del proyecto, aprendimos varias lecciones importantes que aplicaremos en futuros desarrollos:
+- Recolectar más datos: La cantidad de imágenes que utilizamos para entrenar el modelo resultó ser crítica. En futuros proyectos, nos aseguraremos de recolectar aún más datos y probarlos en diversas condiciones para mejorar la precisión del modelo.
+
+
+
+- Optimización gradual: Nos dimos cuenta de que la mejor forma de ajustar el modelo es hacerlo de manera incremental. Optimizar demasiado el modelo desde el principio llevó a problemas de precisión, por lo que ahora sabemos que es mejor hacerlo poco a poco y probar los resultados en cada etapa.
+
+
+
 # **Conclusion**
 # **Referencias**
 Tardif, A. (2023). TinyML: el futuro del aprendizaje automático en una escala minúscula. https://www.unite.ai/es/tinyml-the-future-of-machine-learning-on-a-minuscule-scale/
