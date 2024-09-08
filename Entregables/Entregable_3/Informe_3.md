@@ -68,13 +68,11 @@ Una vez que logramos entrenar el modelo en Teachable Machine, lo pasamos a Edge 
 
 Otro reto fue optimizar el modelo para que fuera lo suficientemente ligero como para ejecutarse en el Arduino. Aunque Edge Impulse ofrece herramientas para reducir el tamaño del modelo, nos dimos cuenta de que, si lo optimizábamos demasiado, el reconocimiento de las figuras se volvía impreciso. Hubo que encontrar un punto medio entre rendimiento y precisión para que el sistema reconociera las figuras correctamente y a la vez pudiera ejecutarse en un dispositivo de recursos limitados.
 
- 3. Arduino Nano 33 BLE: integración y problemas con los LEDs
+### **3. Arduino Nano 33 BLE: integración y problemas con los LEDs**
 
 Una vez que optimizamos el modelo, aquí fue donde enfrentamos los mayores desafíos. El objetivo era hacer que el Arduino interpretara las figuras reconocidas y encendiera los LEDs correspondientes. Por ejemplo, si reconocía un círculo, se encendía un LED; si veía el número 3 o el número 1, otros LEDs se activaban.
 
 Además, nos encontramos con problemas en la comunicación entre el modelo y los LEDs. Aunque el Arduino recibía la salida del modelo, no siempre encendía los LEDs correctamente. Esto requería ajustes en el código para asegurarnos de que las señales de salida del modelo se tradujeran correctamente en las acciones esperadas.
-
-
 
 
 # **Conclusion**
@@ -84,4 +82,3 @@ En coclusion, este proyecto de reconocimiento se pudo obtener las espectativas q
 Tardif, A. (2023). TinyML: el futuro del aprendizaje automático en una escala minúscula. https://www.unite.ai/es/tinyml-the-future-of-machine-learning-on-a-minuscule-scale/
 
 DataScientest. (2024). TinyML: La revolución de la IA en dispositivos de baja potencia. DataScientest. https://datascientest.com/es/tinyml-todo-sobre
-
