@@ -11,7 +11,7 @@ En otras palabras, TinyML es una revolución en aprendizaje profundo que junta l
 El siguiente informe presenta el desarrollo de un modelo de TinyML que opera en un tablero Arduino Nano 33 BLE Sense para seguir muestras de movimientos y encender el LED según el asechador. En el proyecto, el sistema monitorea si el usuario ha dibujadoun círculo, dibujado el número 1 o el número 3 y enciende el LED verde, rojo o azul, respectivamente.Se usó Teachable Machine como el recolector de audio vide el web y Edge Impulse como el procesador de audio en su forma de realincorporadoen el modelo entrenado en Arduino.
 Este demostrador no solo prueba cómo se realizan tareas mucho más significativas en limitaciones de hardware: el laboratori del potencial de TinyML y elaprendizaje automático vidimamente en la vida real aplicaciones donde el LED actúa como un dispositivo bidireccional buceta de la entrada y salida del usuario.
 
-Metodología 
-Resultados 
-Discusión 
-Referencias
+# **Metodología**
+# **Resultados**
+# **Discusión** 
+# **Referencias**
