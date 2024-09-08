@@ -35,7 +35,7 @@ Debido a que el formato JSON del sitio web no era compatible con Edge Impulse, s
 Los datos reformateados se cargaron en Edge Impulse, donde se entrenó un modelo de clasificación para reconocer los patrones de dibujo.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c046314-447d-4b47-aba5-cac5eff60384" alt="Imagen 2" width="400px" />
-  <img src="https://github.com/user-attachments/assets/99d52f89-940a-4ede-a5e2-9f379f62a67e" alt="Imagen 2" width="400px" />
+  <img src="https://github.com/user-attachments/assets/99d52f89-940a-4ede-a5e2-9f379f62a67e" alt="Imagen 2" width="300px" />
 </p>
 
 ###	**Implementación en Arduino:** 
