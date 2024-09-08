@@ -58,7 +58,7 @@ En nuestro proyecto, nos enfocamos en desarrollar un sistema de reconocimiento d
 
 1. Teachable Machine: entrenamiento del modelo para reconocimiento de figuras.
 
-El primer desafío fue reunir suficientes imágenes para entrenar el modelo. Aunque Teachable Machine es intuitiva, rápidamente nos dimos cuenta de que la cantidad de datos de entrada era clave. Si el modelo no tenía suficientes imágenes claras de cada figura, los resultados eran inconsistentes. Tuvimos que capturar muchas imágenes en diferentes condiciones de iluminación y desde diferentes ángulos para asegurar que el sistema pudiera reconocer cada figura de manera confiable.
+El primer desafío fue reunir suficientes data para entrenar el modelo. Aunque Teachable Machine es intuitiva, rápidamente nos dimos cuenta de que la cantidad de datos de entrada era clave. Si el modelo no tenía suficientes gestos claras de cada figura, los resultados eran inconsistentes. Tuvimos que capturar muchos gestos en diferentes condiciones de iluminación y desde diferentes ángulos para asegurar que el sistema pudiera reconocer cada figura de manera confiable.
 
 Además, tuvimos que ajustar el modelo para evitar que reconociera erróneamente figuras similares o que cometiera confusiones entre el número 1 y otras formas alargadas. Encontrar el balance entre la cantidad de datos y la precisión del modelo fue un reto en esta fase.
 
