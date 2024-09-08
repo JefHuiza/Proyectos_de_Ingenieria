@@ -48,13 +48,16 @@ Tenemos la imagen de la exploracion de los datos
   <img src="https://github.com/user-attachments/assets/80df7a1b-0323-41db-a1ff-f47a04a937b7" alt="Imagen 2" width="400px" />
 </p>
 
-Aqui al generar caractersiticas se tomo un total de 8 ms en el tiempo de procesamiento y un uso maximo de 1KB 
+Aqui al generar caracteristicas se tomo un total de 8 ms en el tiempo de procesamiento y un uso maximo de 1KB 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/08439b3a-b212-43c0-952d-1be65d6b88d5" alt="Imagen 2" width="400px" />
 </p>
 
 ###	**Implementación en Arduino:** 
 Una vez que se descargó el modelo entrenado, se utilizó en el IDE de Arduino para desarrollar el código que detecta las formas correspondientes y enciende el LED adecuado.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8a8391c-a613-4dcb-a7c0-fdcaf91978c9" alt="Imagen 2" width="400px" />
+</p>
 
 # **Resultados**
 
