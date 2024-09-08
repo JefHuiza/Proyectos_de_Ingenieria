@@ -39,6 +39,7 @@ Una vez que se descargó el modelo entrenado, se utilizó en el IDE de Arduino p
 # **Resultados**
 
 El modelo de TinyML entrenado en Edge Impulse fue capaz de clasificar con éxito los patrones de dibujo del Arduino Nano 33 BLE Sense, encendiendo el LED correspondiente en cada caso:
+
 **Círculo detectado, LED rojo encendido**
 
 **Número 3 detectado, LED azul encendido**
