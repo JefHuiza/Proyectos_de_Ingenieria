@@ -33,6 +33,10 @@ Se utilizó el sitio web de Harvard TinyML (https://tinyml.seas.harvard.edu/magi
 Debido a que el formato JSON del sitio web no era compatible con Edge Impulse, se utilizó Google Colab para reformatear los datos en el formato adecuado.
 ###	**Entrenamiento del modelo:** 
 Los datos reformateados se cargaron en Edge Impulse, donde se entrenó un modelo de clasificación para reconocer los patrones de dibujo.
+<p align="center">
+  <img src="" alt="Imagen 2" width="400px" />
+</p>
+
 ###	**Implementación en Arduino:** 
 Una vez que se descargó el modelo entrenado, se utilizó en el IDE de Arduino para desarrollar el código que detecta las formas correspondientes y enciende el LED adecuado.
 
