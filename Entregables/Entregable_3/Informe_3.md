@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/38127279-16a0-48d3-93e6-53ec249c6aa5
 
 
 # **Discusión** 
-En nuestro proyecto, nos enfocamos en desarrollar un sistema de reconocimiento de figuras y números —como un círculo, el número 3 y el número 1— y vincular ese reconocimiento con la activación de LEDs en un Arduino Nano 33 BLE. A lo largo del desarrollo, nos encontramos con varios desafíos tanto en la parte de entrenamiento del modelo como en la integración con el hardware, que hicieron el proceso mucho más complejo de lo que esperábamos. Aquí discutimos los detalles del proyecto y los obstáculos que enfrentamos.
+En nuestro proyecto, nos enfocamos en desarrollar un sistema de reconocimiento de figuras y números (como un círculo, el número 3 y el número 1) y vincular ese reconocimiento con la activación de LEDs en un Arduino Nano 33 BLE. A lo largo del desarrollo, nos encontramos con varios desafíos tanto en la parte de entrenamiento del modelo como en la integración con el hardware, que hicieron el proceso mucho más complejo de lo que esperábamos. Aquí discutimos los detalles del proyecto y los obstáculos que enfrentamos.
 
 ### **1. Teachable Machine: entrenamiento del modelo para reconocimiento de figuras.**
 
