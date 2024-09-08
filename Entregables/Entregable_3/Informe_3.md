@@ -55,7 +55,6 @@ https://github.com/user-attachments/assets/38127279-16a0-48d3-93e6-53ec249c6aa5
 
 # **Discusión** 
 # **Conclusion**
-Este proyecto muestra que el Arduino Nano 33 BLE Sense puede predecir movimientos como un círculo, el número 3 o el número 1 utilizando modelos TinyML entrenados con Edge Impulse. Lo logramos sin necesidad de conexión a la nube, optimizando recursos y energía.
 # **Referencias**
 Tardif, A. (2023). TinyML: el futuro del aprendizaje automático en una escala minúscula. https://www.unite.ai/es/tinyml-the-future-of-machine-learning-on-a-minuscule-scale/
 
