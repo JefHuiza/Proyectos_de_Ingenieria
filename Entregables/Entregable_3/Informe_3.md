@@ -12,6 +12,9 @@ El siguiente informe presenta el desarrollo de un modelo de TinyML que opera en 
 Este demostrador no solo prueba cómo se realizan tareas mucho más significativas en limitaciones de hardware: el laboratori del potencial de TinyML y elaprendizaje automático vidimamente en la vida real aplicaciones donde el LED actúa como un dispositivo bidireccional buceta de la entrada y salida del usuario.
 
 # **Metodología**
+Para la toma de muestras para entrenar el modelo utilce este sitio web (https://tinyml.seas.harvard.edu/magic_wand/) . Este sitio web permite tomar patrones por el arduino y guardarlos en formato json. Como el json de este sitio web no es el apropiado para subirlo a edge impulse, se tuvo que formatear con codigo de google colab para que ya tenga el formato apropiado, una vez que ya esta subido a edge impulse, se enmtrena el modelo como se hizo en clase y se descarga. Una vez con el modelo entrenado, se usa en arduino IDE para poner el codigo que detecta las formas correspondientes y se prenda el led adecuado.
+
+
 # **Resultados**
 # **Discusión** 
 # **Referencias**
