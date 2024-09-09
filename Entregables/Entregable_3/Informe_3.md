@@ -17,8 +17,9 @@ En este informe, se describe el proceso de desarrollar un modelo de TinyML para 
 A continuacion se muestran las herramientas utilizadas en el desarollo e implementacion del modelo de TinyML
 ### Arduino Nano 33 BLE Sense
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62dc15a7-a4e0-42c8-a3a0-34b92a64dff9" alt="Imagen 1" width="200px" />
+  <img src="https://github.com/user-attachments/assets/0060bc4f-80ac-408a-bb57-bcdfc7486979" alt="Arduino Nano" width="400px" />
 </p>
+
 
 Es una placa de desarrollo de bajo costo basada en el microcontrolador ATSAMD21G18.
 Sensores: Integra una variedad de sensores, incluyendo un acelerómetro de 3 ejes, un giroscopio de 3 ejes, un magnetómetro de 3 ejes, y un sensor de temperatura.
@@ -27,27 +28,40 @@ Conectividad: Incluye conectividad Bluetooth Low Energy (BLE) para la comunicaci
 
 ### Edge Impulse
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b0f2feb-130a-42d4-aa1c-44848a5c339b" alt="Imagen 2" width="400px" />
+  <img src="https://github.com/user-attachments/assets/550ea5c5-3aeb-454f-90f9-daa2367ca1e1" alt="Edge Impulse" width="400px" />
 </p>
+
 Plataforma en línea para el desarrollo de modelos de aprendizaje automático para dispositivos IoT.
 Función en el proyecto: Se utilizó para entrenar un modelo de clasificación capaz de reconocer los patrones de dibujo a partir de los datos recolectados por el Arduino Nano 33 BLE Sense.
 
 ### Harvard TinyML
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07ae337c-68d7-4b5f-8e2a-6c3b0f081951" alt="Magic Wand" width="400px" />
+</p>
 
 Plataforma en línea que proporciona herramientas y recursos para el desarrollo de modelos de aprendizaje automático para dispositivos de bajo consumo energético.
 Función en el proyecto: Se utilizó para recopilar los patrones de dibujo, generando datos en formato JSON.
 
 ### Google Colab
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36fb675f-1bf7-42d0-a2c0-285444479b9e" alt="Google Colab" width="400px" />
+</p>
 
 Entorno de programación basado en la nube que proporciona acceso gratuito a GPUs y TPUs.
 Función en el proyecto: Se usó para procesar y reformatear los datos JSON obtenidos de Harvard TinyML, adaptándolos al formato requerido por Edge Impulse.
 
 ### JSON
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2dd615ef-d68b-4f17-ab83-a9767ed241a1" alt="JSON" width="400px" />
+</p>
 
 Formato de intercambio de datos ligero y legible por humanos.
 Función en el proyecto: Se utilizó para almacenar los datos de los patrones de dibujo recopilados por Harvard TinyML.
 
 ### IDE de Arduino
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01263e1c-4162-419d-8514-a188588a1c50" alt="Arduino IDE" width="400px" />
+</p>
 
 Entorno de desarrollo integrado para programar placas Arduino.
 Función en el proyecto: Se usó para desarrollar el código que se ejecuta en el Arduino Nano 33 BLE Sense, implementando la lógica de detección de formas y control del LED.
