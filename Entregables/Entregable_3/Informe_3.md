@@ -106,10 +106,7 @@ El modelo de TinyML entrenado en Edge Impulse fue capaz de clasificar con éxito
 
 **Círculo detectado, LED rojo encendido**
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/807a222a-8aac-4a15-b47b-b5c787877a7a" alt="Imagen 2" width="300px" />
-</p>
-
+https://github.com/user-attachments/assets/7a0876de-4ce6-4efe-8a4b-6b630373030b
 
 **Número 3 detectado, LED azul encendido**
 
