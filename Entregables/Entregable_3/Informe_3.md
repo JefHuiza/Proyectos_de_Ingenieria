@@ -20,10 +20,37 @@ A continuacion se muestran las herramientas utilizadas en el desarollo e impleme
   <img src="https://github.com/user-attachments/assets/62dc15a7-a4e0-42c8-a3a0-34b92a64dff9" alt="Imagen 1" width="200px" />
 </p>
 
+Es una placa de desarrollo de bajo costo basada en el microcontrolador ATSAMD21G18.
+Sensores: Integra una variedad de sensores, incluyendo un acelerómetro de 3 ejes, un giroscopio de 3 ejes, un magnetómetro de 3 ejes, y un sensor de temperatura.
+Función en el proyecto: Actúa como el cerebro del proyecto, recolectando datos de los sensores (en este caso, los datos de dibujo a través del acelerómetro y el giroscopio), procesándolos y controlando la salida (encendido del LED).
+Conectividad: Incluye conectividad Bluetooth Low Energy (BLE) para la comunicación con dispositivos externos.
+
 ### Edge Impulse
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7b0f2feb-130a-42d4-aa1c-44848a5c339b" alt="Imagen 2" width="400px" />
 </p>
+Plataforma en línea para el desarrollo de modelos de aprendizaje automático para dispositivos IoT.
+Función en el proyecto: Se utilizó para entrenar un modelo de clasificación capaz de reconocer los patrones de dibujo a partir de los datos recolectados por el Arduino Nano 33 BLE Sense.
+
+### Harvard TinyML
+
+Plataforma en línea que proporciona herramientas y recursos para el desarrollo de modelos de aprendizaje automático para dispositivos de bajo consumo energético.
+Función en el proyecto: Se utilizó para recopilar los patrones de dibujo, generando datos en formato JSON.
+
+### Google Colab
+
+Entorno de programación basado en la nube que proporciona acceso gratuito a GPUs y TPUs.
+Función en el proyecto: Se usó para procesar y reformatear los datos JSON obtenidos de Harvard TinyML, adaptándolos al formato requerido por Edge Impulse.
+
+### JSON
+
+Formato de intercambio de datos ligero y legible por humanos.
+Función en el proyecto: Se utilizó para almacenar los datos de los patrones de dibujo recopilados por Harvard TinyML.
+
+### IDE de Arduino
+
+Entorno de desarrollo integrado para programar placas Arduino.
+Función en el proyecto: Se usó para desarrollar el código que se ejecuta en el Arduino Nano 33 BLE Sense, implementando la lógica de detección de formas y control del LED.
 
 # **Procedimiento**
 
