@@ -136,12 +136,13 @@ Otro reto fue optimizar el modelo para que fuera lo suficientemente ligero como 
 
 Una vez que optimizamos el modelo, aquí fue donde enfrentamos los mayores desafíos. El objetivo era hacer que el Arduino interpretara las figuras reconocidas y encendiera los LEDs correspondientes. Por ejemplo, si reconocía un círculo, se encendía un LED; si veía el número 3 o el número 1, otros LEDs se activaban.
 
-Además, nos encontramos con problemas en la comunicación entre el modelo y los LEDs. Aunque el Arduino recibía la salida del modelo, no siempre encendía los LEDs correctamente. Esto requería ajustes en el código para asegurarnos de que las señales de salida del modelo se tradujeran correctamente en las acciones esperadas.
+Además, nos encontramos con problemas en la comunicación entre el modelo y los LEDs. Aunque el Arduino recibía la salida del modelo, no siempre encendía los LEDs correctamente. Esto requería ajustes en el código para asegurarnos de que las señales de salida del modelo se tradujeran correctamente en las acciones esperadas. [^3]
 
 
 # **Conclusion**
 
-En coclusion, este proyecto de reconocimiento se pudo obtener las espectativas que se esperó, esto nos brindó más que solo el dominio de herramientas y tecnologías como Teachable Machine, Edge Impulse, y Arduino Nano 33 BLE. Nos permitió además experimentar de primera mano los retos y beneficios de trabajar con TinyML, y nos preparó para enfrentar problemas complejos en el desarrollo de soluciones de inteligencia artificial en hardware de baja potencia. Aprender a crear modelos de machine learning eficientes y ejecutarlos en dispositivos embebidos es una habilidad clave en la innovación tecnológica moderna, y esta experiencia nos ha dado un fundamento sólido para avanzar en el campo de la inteligencia artificial, permitiéndonos incluso aportar soluciones tecnológicas más inteligentes y sostenibles en el futuro.
+En coclusion, este proyecto de reconocimiento se pudo obtener las espectativas que se esperó, esto nos brindó más que solo el dominio de herramientas y tecnologías como Teachable Machine, Edge Impulse, y Arduino Nano 33 BLE. Nos permitió además experimentar de primera mano los retos y beneficios de trabajar con TinyML, y nos preparó para enfrentar problemas complejos en el desarrollo de soluciones de inteligencia artificial en hardware de baja potencia. Aprender a crear modelos de machine learning eficientes y ejecutarlos en dispositivos embebidos es una habilidad clave en la innovación tecnológica moderna, y esta experiencia nos ha dado un fundamento sólido para avanzar en el campo de la inteligencia artificial, permitiéndonos incluso aportar soluciones tecnológicas más inteligentes y sostenibles en el futuro. 
+
 # **Referencias**
 [^1]: Tardif, A. (2023). TinyML: el futuro del aprendizaje automático en una escala minúscula. https://www.unite.ai/es/tinyml-the-future-of-machine-learning-on-a-minuscule-scale/
 
