@@ -4,6 +4,10 @@
 
 # Implementacion del Internet de las cosas(IoT)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7075090-9988-401b-a8b6-97ab1d98c17a" alt="Imagen 2" width="400px" />
+</p>
+
 ## 1.Introduccion
 ## 2.Metodologia
 El Arduino Explore IoT Kit es una plataforma escencial para conocer y aprender a crear proyectos de Internet de las Cosas (IoT).Incluye el MKR IoT Carrier el cual usaremos para controlar luces artificiales mediante reles ,asi como la plataforma de Arduino Cloud para el monitoreo y control de los datos.
