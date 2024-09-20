@@ -181,6 +181,8 @@ void onUpdateDisplayChange() {
 ```
 ### Resultado Final 
 
+------------------------- Imagen con luces encendidas XD
+
 
 ### Dashboards
 
