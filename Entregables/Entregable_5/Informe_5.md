@@ -13,7 +13,6 @@ El Arduino Explore IoT Kit es una plataforma escencial para conocer y aprender a
 - MKR IoT Carrier
 - Sensor de humedad
 - Micro USB cable
-![image](https://github.com/user-attachments/assets/392b2ebc-a8c4-4973-9901-0a7e85f625da)
 
 ## 3.Resultados
 ## 4.Discuciones 
