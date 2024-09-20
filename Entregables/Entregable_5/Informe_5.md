@@ -4,9 +4,9 @@
 
 # Implementacion del Internet de las cosas(IoT)
 
-## Introduccion
-## Metodologia
-## Resultados
-## Discuciones 
-## Conclusiones
-## Referencias
+## 1.Introduccion
+## 2.Metodologia
+## 3.Resultados
+## 4.Discuciones 
+## 5.Conclusiones
+## 6.Referencias
