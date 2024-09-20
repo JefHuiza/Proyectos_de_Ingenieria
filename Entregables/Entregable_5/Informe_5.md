@@ -53,11 +53,6 @@ Conectar tu placa Arduino al ordenador y configurar el dispositivo.
 
 ### Codigo Utilizado
 
-# Código Arduino para MKRIoTCarrier
-
-Este es un código de ejemplo para controlar un MKRIoTCarrier utilizando Arduino.
-
-```cpp
 #include "thingProperties.h"
 #include <Arduino_MKRIoTCarrier.h>
 
@@ -182,6 +177,7 @@ void onUpdateDisplayChange() {
 
   updateDisplay = false;
 }
+
 
 ### Dashboards
 
