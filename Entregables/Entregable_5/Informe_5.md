@@ -51,8 +51,9 @@ Conectar tu placa Arduino al ordenador y configurar el dispositivo.
   <img src="https://github.com/user-attachments/assets/65fffd08-26c8-4df3-8b39-8a5f40c2f86d" alt="Imagen 2" width="300px" />
 </p>
 
-Codigo Utilizado
----------------------------------------------falta
+### Codigo Utilizado
+
+---------------------------------------------FALTA XD
 
 ### Dashboards
 
