@@ -51,6 +51,16 @@ Conectar tu placa Arduino al ordenador y configurar el dispositivo.
   <img src="https://github.com/user-attachments/assets/65fffd08-26c8-4df3-8b39-8a5f40c2f86d" alt="Imagen 2" width="300px" />
 </p>
 
+Codigo Utilizado
+---------------------------------------------falta
+
+Dashboards
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae556574-b5ba-4bd7-a2ba-025447023982" alt="Imagen 2" width="300px" />
+</p>
+
+Tenemos que interactuar con el sensor de humedad para provocar movimiento en los datos y de esa mnanera poder controlar y monitorear loa elementos visuales desde el Dashboard , asi como se muestra en la imagen.
 
 
 
