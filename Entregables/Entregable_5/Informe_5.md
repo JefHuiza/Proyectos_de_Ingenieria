@@ -39,6 +39,21 @@ El Arduino Explore IoT Kit es una plataforma escencial para conocer y aprender a
  La metodologia realizada es importante para los proyectos IoT,ya que nos ofrece una plataforma completa que abarca la captura de datos y analisis.
 
 ## 3.Resultados
+Lo primero es conectar el sensor de humedad externo a la MKR IoT Carrier
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d1b6067-6283-4f4f-99c5-4d4b934f2f5f" alt="Imagen 2" width="300px" />
+</p>
+
+Conectar tu placa Arduino al ordenador y configurar el dispositivo.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65fffd08-26c8-4df3-8b39-8a5f40c2f86d" alt="Imagen 2" width="300px" />
+</p>
+
+
+
+
 ## 4.Discuciones 
 ## 5.Conclusiones
 ## 6.Referencias
