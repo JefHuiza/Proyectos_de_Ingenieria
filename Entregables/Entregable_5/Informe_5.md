@@ -9,6 +9,10 @@
 El Arduino Explore IoT Kit es una plataforma escencial para conocer y aprender a crear proyectos de Internet de las Cosas (IoT).Incluye el MKR IoT Carrier el cual usaremos para controlar luces artificiales mediante reles y mostraremos los datos obetnidos en la plataforma de Arduino Cloud.
 
 #### Componentes utilizados:
+- Arduino MKR WiFi 1010
+- MKR IoT Carrier
+- Sensor de humedad
+- Micro USB cable
 
 ## 3.Resultados
 ## 4.Discuciones 
