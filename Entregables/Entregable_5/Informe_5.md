@@ -53,6 +53,7 @@ Conectar tu placa Arduino al ordenador y configurar el dispositivo.
 
 ### Codigo Utilizado
 
+```cpp
 #include "thingProperties.h"
 #include <Arduino_MKRIoTCarrier.h>
 
@@ -177,7 +178,7 @@ void onUpdateDisplayChange() {
 
   updateDisplay = false;
 }
-
+```
 
 ### Dashboards
 
@@ -186,7 +187,6 @@ void onUpdateDisplayChange() {
 </p>
 
 Tenemos que interactuar con el sensor de humedad para provocar movimiento en los datos y de esa manera poder controlar y monitorear los elementos visuales desde el Dashboard , asi como se muestra en la imagen.
-
 
 
 ## 4.Discuciones 
