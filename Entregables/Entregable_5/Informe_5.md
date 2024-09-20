@@ -54,7 +54,7 @@ Conectar tu placa Arduino al ordenador y configurar el dispositivo.
 Codigo Utilizado
 ---------------------------------------------falta
 
-## Dashboards
+### Dashboards
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ae556574-b5ba-4bd7-a2ba-025447023982" alt="Imagen 2" width="300px" />
