@@ -25,7 +25,9 @@ El Arduino Explore IoT Kit es una plataforma escencial para conocer y aprender a
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5d26c18-5165-429c-9bab-ed73ca0d9de0" alt="Imagen 2" width="600px" />
 </p>
+
  Aqui podemos observar la platafoma Arduino Cloud , en la pantalla principal podemos encontrar el menu con varias secciones:
+
  - Sketchs: Proyectos de codigo
  - Devices: Dispositivos concetados a la nube
  - Things : Obejtos que puedes controlar
