@@ -53,7 +53,141 @@ Conectar tu placa Arduino al ordenador y configurar el dispositivo.
 
 ### Codigo Utilizado
 
----------------------------------------------FALTA XD
+#include "thingProperties.h"
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+ 
+int moistPin = A5;
+ 
+String relayState1 = "";
+String relayState2 = "";
+ 
+void setup() {
+  // Initialize serial and wait for port to open:
+  Serial.begin(9600);
+  // Defined in thingProperties.h
+  initProperties();
+  
+  ArduinoCloud.begin(ArduinoIoTPreferredConnection);
+  
+  CARRIER_CASE = true;
+  carrier.begin();
+  
+  setDebugMessageLevel(4);   //Get Cloud Info/errors , 0 (only errors) up to 4
+  ArduinoCloud.printDebugInfo();
+  
+  while (ArduinoCloud.connected() != 1) {
+    ArduinoCloud.update();
+    carrier.display.setTextSize(3);
+    carrier.display.setCursor(20, 70);
+    carrier.display.println("Waiting For");
+    carrier.display.setCursor(5, 110);
+    carrier.display.println("Connection...");
+    delay(500);
+  }
+}
+ 
+ 
+ 
+void loop() {
+  ArduinoCloud.update();
+ 
+  if (relay_1 == false) {
+    carrier.Relay1.open();
+    relayState1 = "ON";
+  }
+  else {
+    carrier.Relay1.close();
+    relayState1 = "OFF";
+  }
+ 
+  if (relay_2 == false) {
+    carrier.Relay2.open();
+    relayState2 = "ON";
+  }
+  else {
+    carrier.Relay2.close();
+    relayState2 = "OFF";
+  }
+ 
+ 
+  if (carrier.Light.colorAvailable()) {
+    int none;//not gonna be used
+    carrier.Light.readColor(none,  none,  none, light);
+  }
+ 
+ 
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+ 
+  int rawMoistValue = analogRead(moistPin);
+  moistValue = map(rawMoistValue, 0, 1023, 100, 0);
+}
+ 
+ 
+ 
+ 
+ 
+ 
+void onRelay1Change() {
+  // Do something
+}
+ 
+void onRelay2Change() {
+  // Do something
+}
+ 
+void onRgbColorChange() {
+  // Do something
+  uint8_t r, g, b;
+  rgbColor.getValue().getRGB(r, g, b);
+  if (rgbColor.getSwitch()) {
+    carrier.leds.fill(carrier.leds.Color(g, r, b), 0, 5);
+    carrier.leds.show();
+  }
+  else {
+    carrier.leds.fill(0, 0, 5);
+    carrier.leds.show();
+  }
+}
+ 
+void onUpdateDisplayChange() {
+  // Do something
+  carrier.display.fillScreen(ST77XX_WHITE);
+  carrier.display.setTextColor(ST77XX_RED);
+  carrier.display.setTextSize(2);
+ 
+  carrier.display.setCursor(20, 30);
+  carrier.display.print("Temp: ");
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+ 
+  carrier.display.setCursor(20, 50);
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.print(" %");
+ 
+  carrier.display.setTextColor(ST77XX_ORANGE);
+  carrier.display.setCursor(20, 70);
+  carrier.display.print("Light: ");
+  carrier.display.print(light);
+ 
+  carrier.display.setTextColor(ST77XX_BLUE);
+  carrier.display.setCursor(20, 90);
+  carrier.display.print("Moist: ");
+  carrier.display.print(moistValue);
+  carrier.display.print(" %");
+ 
+  carrier.display.setTextColor(ST77XX_BLUE);
+  carrier.display.setCursor(20, 120);
+  carrier.display.print("R1: ");
+  carrier.display.print(relayState1);
+ 
+  carrier.display.print(" R2: ");
+  carrier.display.print(relayState2);
+ 
+  updateDisplay = false;
+}
 
 ### Dashboards
 
