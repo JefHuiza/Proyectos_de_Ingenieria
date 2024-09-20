@@ -10,12 +10,16 @@ El Arduino Explore IoT Kit es una plataforma escencial para conocer y aprender a
 
 #### Componentes utilizados:
 - Arduino MKR WiFi 1010
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/32954f2f-17a2-48b1-8289-0c98b80a8c7b" alt="Imagen 2" width="200px" />
-</p>
 - MKR IoT Carrier
 - Sensor de humedad
 - Micro USB cable
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/32954f2f-17a2-48b1-8289-0c98b80a8c7b" alt="Imagen 2" width="200px" />
+  <img src="https://github.com/user-attachments/assets/87f3e81a-e900-4da9-8509-b5fb54778e15" alt="Imagen 2" width="200px" />
+  <img src="https://github.com/user-attachments/assets/7ec314a0-b34d-43b4-b18d-cac00e3ca105" alt="Imagen 2" width="200px" />
+  <img src="https://github.com/user-attachments/assets/91117f37-2286-464b-8649-7aa64823da97" alt="Imagen 2" width="200px" />
+</p>
 
 ## 3.Resultados
 ## 4.Discuciones 
