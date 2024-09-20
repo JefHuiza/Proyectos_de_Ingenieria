@@ -34,7 +34,7 @@ El Arduino Explore IoT Kit es una plataforma escencial para conocer y aprender a
  - Dashboards: Paneles para los datos 
  - Getting Started: Apartado que presenta una guia rapida de como usar Arduino Cloud
  
- Y mas opciones relevantes para el uso de Arduino Cloud.
+ Y mas opciones relevantes para el uso de la plataforma.
  
  La metodologia realizada es importante para los proyectos IoT,ya que nos ofrece una plataforma completa que abarca la captura de datos y analisis.
 
