@@ -16,7 +16,7 @@ El Arduino Explore IoT Kit es una plataforma escencial para conocer y aprender a
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/32954f2f-17a2-48b1-8289-0c98b80a8c7b" alt="Imagen 2" width="200px" />
-  <img src="https://github.com/user-attachments/assets/358d5178-d550-42d7-931d-61ed0ac891e0" alt="Imagen 2" width="275px" />
+  <img src="https://github.com/user-attachments/assets/358d5178-d550-42d7-931d-61ed0ac891e0" alt="Imagen 2" width="270px" />
   <img src="https://github.com/user-attachments/assets/7ec314a0-b34d-43b4-b18d-cac00e3ca105" alt="Imagen 2" width="200px" />
   <img src="https://github.com/user-attachments/assets/91117f37-2286-464b-8649-7aa64823da97" alt="Imagen 2" width="200px" />
 </p>
