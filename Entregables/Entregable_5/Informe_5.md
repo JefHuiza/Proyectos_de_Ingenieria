@@ -210,3 +210,10 @@ Se ha logrado implementar con éxito el sistema IoT utilizando la plataforma Ard
 Aquí está la cita en formato APA:
 
 Universidad EIA. (2023). *Especialización en Internet de las Cosas (IoT)*. Recuperado de [https://www.eia.edu.co/wp-content/uploads/2023/10/Especializacio%CC%81n-en-Internet-de-las-Cosas-IOT.pdf](https://www.eia.edu.co/wp-content/uploads/2023/10/Especializacio%CC%81n-en-Internet-de-las-Cosas-IOT.pdf)
+TD SYNNEX. (2021, noviembre 23). ¿Qué reserva el futuro para el Internet de las Cosas? TD SYNNEX Blog. Recuperado de https://blog-es.lac.tdsynnex.com/que-reserva-el-futuro-para-el-internet-de-las-cosas.
+Vorecol. (2024). ¿De qué manera el Internet de las Cosas (IoT) está revolucionando la gestión de la cadena de suministro? Vorecol.com. https://vorecol.com/es/articulos/articulo-de-que-manera-el-internet-de-las-cosas-iot-esta-revolucionando-la-gestion-de-la-cadena-de-suministro-109472
+
+
+
+
+
