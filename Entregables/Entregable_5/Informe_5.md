@@ -2,7 +2,7 @@
   <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="70%">
 </p>
 
-# Implementacion del Internet de las cosas(IoT)
+# Implementacion del Internet de las cosas (IoT)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c7075090-9988-401b-a8b6-97ab1d98c17a" alt="Imagen 2" width="400px" />
