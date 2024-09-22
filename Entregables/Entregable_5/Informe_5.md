@@ -201,6 +201,10 @@ Tenemos que interactuar con el sensor de humedad para provocar movimiento en los
 
 
 ## 4.Discuciones 
+80% of your text is likely AI-generated
+
+New version:
+El Internet de las Cosas (IoT) está transformando diversos sectores, desde la cadena de suministro hasta la educación y la gestión ambiental. Según un artículo de Vorecol (2024), el IoT permite un control preciso y en tiempo real de todos los eslabones de la cadena de suministro, lo que mejora la eficiencia y reduce los costos operativos. Por otro lado, TD SYNNEX (2021) señala que el futuro del IoT implica una integración más profunda con la inteligencia artificial y la automatización, lo que potenciará aún más la toma de decisiones basada en datos. En este informe, la implementación práctica con plataformas como Arduino Cloud, que se ha mencionado anteriormente, demuestra cómo se pueden conectar sensores y dispositivos para gestionar datos ambientales y responder de manera efectiva....
 ## 5.Conclusiones
 Se ha logrado implementar con éxito el sistema IoT utilizando la plataforma Arduino Cloud y el MKR IoT Carrier, permitiendo el monitoreo y control de variables ambientales en tiempo real. Gracias a esta configuración, se pueden visualizar datos como temperatura, humedad y niveles de luz de forma instantánea a través de la nube.
 
