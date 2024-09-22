@@ -196,7 +196,7 @@ void onUpdateDisplayChange() {
   <img src="https://github.com/user-attachments/assets/ae556574-b5ba-4bd7-a2ba-025447023982" alt="Imagen 2" width="300px" />
 </p>
 
-Tenemos que interactuar con el sensor de humedad para provocar movimiento en los datos y de esa manera poder controlar y monitorear los elementos visuales desde el Dashboard , asi como se muestra en la imagen.
+Tenemos que interactuar con el sensor de humedad para provocar movimiento en los datos y de esa manera poder controlar y monitorear los elementos visuales desde el Dashboard , asi como se muestra en la imagen. Se logró activar las luces RGB del MKR IoT carrier, mientras que la pantalla mostraba los valores de humedad en el Arduino Cloud. Así logramos medir la humedad en tiempo en nuestras manos y en nuestro cuerpo. 
 
 
 ## 4.Discuciones 
