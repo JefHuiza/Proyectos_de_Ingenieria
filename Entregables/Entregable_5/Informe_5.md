@@ -204,3 +204,6 @@ Tenemos que interactuar con el sensor de humedad para provocar movimiento en los
 Se ha logrado implementar con éxito el sistema IoT utilizando la plataforma Arduino Cloud y el MKR IoT Carrier, permitiendo el monitoreo y control de variables ambientales en tiempo real. Gracias a esta configuración, se pueden visualizar datos como temperatura, humedad y niveles de luz de forma instantánea a través de la nube.
 
 ## 6.Referencias
+Aquí está la cita en formato APA:
+
+Universidad EIA. (2023). *Especialización en Internet de las Cosas (IoT)*. Recuperado de [https://www.eia.edu.co/wp-content/uploads/2023/10/Especializacio%CC%81n-en-Internet-de-las-Cosas-IOT.pdf](https://www.eia.edu.co/wp-content/uploads/2023/10/Especializacio%CC%81n-en-Internet-de-las-Cosas-IOT.pdf)
