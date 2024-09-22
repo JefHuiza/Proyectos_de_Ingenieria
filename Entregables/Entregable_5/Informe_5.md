@@ -189,7 +189,7 @@ void onUpdateDisplayChange() {
 ### Resultado Final 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/209a23bf-09fb-4989-952b-e51940bdb49a" alt="Imagen de WhatsApp 2024-09-22 a las 12 57 01" width="300px" />
+  <img src="https://github.com/user-attachments/assets/57dcc18e-8bf7-40e9-b7ee-f524364d5404" alt="Imagen de WhatsApp 2024-09-22 a las 12 57 01" width="300px" />
 </p>
 
 <p align="center">
