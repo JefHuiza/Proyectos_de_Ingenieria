@@ -206,6 +206,20 @@ El Internet de las Cosas (IoT) está transformando diversos sectores, desde la c
 ## 5.Conclusiones
 Se ha logrado implementar con éxito el sistema IoT utilizando la plataforma Arduino Cloud y el MKR IoT Carrier, permitiendo el monitoreo y control de variables ambientales en tiempo real. Gracias a esta configuración, se pueden visualizar datos como temperatura, humedad y niveles de luz de forma instantánea a través de la nube.
 
+###### Eficiencia del Arduino Explore IoT Kit: 
+El kit ha sido efectivo para enseñar los principios del IoT, permitiendo a usuarios sin experiencia desarrollar proyectos complejos y cumplir los objetivos propuestos.
+
+###### Conectividad y Nube:
+La integración con Arduino Cloud facilitó la gestión de dispositivos y la visualización de datos en tiempo real, favoreciendo un aprendizaje práctico.
+
+###### Desafíos: 
+Se identificaron problemas de conectividad y variaciones en las lecturas de ciertos sensores, especialmente el de luz, lo que indica la necesidad de mejorar la calibración y estabilidad del sistema.
+
+###### Áreas de Mejora: 
+Se recomienda optimizar la configuración y profundizar en los conceptos teóricos del IoT para lograr una mayor comprensión y precisión en las aplicaciones.
+
+Aunque el sistema IoT demostró ser funcional y confiable, se requiere investigación adicional para optimizar el rendimiento en futuras aplicaciones.
+
 ## 6.Referencias
 
 [^1]:Universidad EIA. (2023). *Especialización en Internet de las Cosas (IoT)*. Recuperado de [https://www.eia.edu.co/wp-content/uploads/2023/10/Especializacio%CC%81n-en-Internet-de-las-Cosas-IOT.pdf](https://www.eia.edu.co/wp-content/uploads/2023/10/Especializacio%CC%81n-en-Internet-de-las-Cosas-IOT.pdf)
