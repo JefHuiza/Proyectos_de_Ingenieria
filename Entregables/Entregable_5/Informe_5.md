@@ -189,11 +189,8 @@ void onUpdateDisplayChange() {
 ### Resultado Final 
 
 <p align="center">
-  <img src="" alt="Imagen 2" width="300px" />  ....................................... FALTA IMAGEN
+  <img src="https://github.com/user-attachments/assets/209a23bf-09fb-4989-952b-e51940bdb49a" alt="Imagen de WhatsApp 2024-09-22 a las 12 57 01" width="300px" />
 </p>
-
-
-### Dashboards
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ae556574-b5ba-4bd7-a2ba-025447023982" alt="Imagen 2" width="300px" />
