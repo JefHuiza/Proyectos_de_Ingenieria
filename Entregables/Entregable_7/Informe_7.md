@@ -3,6 +3,9 @@
 </p>
 
 # Modelo PCB
+<p align="center">
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_7/Imagenes/PCB.png?raw=true" width="70%">
+</p>
 
 ## 1. Explicación de los componentes:
 
