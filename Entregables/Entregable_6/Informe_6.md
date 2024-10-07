@@ -43,6 +43,8 @@ Los resultados mostraron que las áreas cercanas a los conectores y las esquinas
 
 ## 4.Discuciones 
 
+De acuerdo a la simulación de esfuerzos de Von Mises, los resultados muestran una concentración significativa de tensiones en la parte central de nuestro modelo. Aunque los esfuerzos son elevados para la aprte central,  estos no generan sobre estiramiento en nuestro modelo, lo que nos indica que se puede soportar una carga aplicada sin deformación permanente.
+
 
 ## 5.Conclusiones
 
