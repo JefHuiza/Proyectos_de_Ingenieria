@@ -50,7 +50,7 @@ Ahora bien, para profundizar más en el análisis, consideramos que sería altam
 ## 5.Conclusiones
 La visualización de los resultados a través de la escala de colores nos ayudó a comprender de manera clara la distribución de tensiones en la pieza. Mientras que las zonas centrales muestran un comportamiento más uniforme, los extremos, especialmente cerca de los conectores, son los puntos más vulnerables.
 
-A partir de estos resultados, consideramos que sería necesario reforzar las áreas con mayores concentraciones de esfuerzos para evitar posibles fallos estructurales. Asimismo, la implementación de un análisis basado en los esfuerzos de Von Mises podría complementar este estudio, brindándonos una perspectiva más detallada sobre la capacidad del material para resistir deformaciones plásticas bajo las cargas aplicadas. En conclusión, los hallazgos obtenidos nos proporcionan ya una base para optimizar el diseño de la pieza, asegurando un mejor rendimiento y una mayor durabilidad en futuras aplicaciones.
+Finalmente consideramos que sería necesario reforzar las áreas con mayores concentraciones de esfuerzos para evitar posibles fallos estructurales. Asimismo, la implementación de un análisis basado en los esfuerzos de Von Mises podría complementar este estudio, brindándonos una perspectiva más detallada sobre la capacidad del material para resistir deformaciones plásticas bajo las cargas aplicadas. En conclusión, los hallazgos obtenidos nos proporcionan ya una base para optimizar el diseño de la pieza, asegurando un mejor rendimiento y una mayor durabilidad en futuras aplicaciones.
 
 ## 6.Referencias
 
