@@ -13,7 +13,7 @@ Por otro lado, las simulaciones de esfuerzos dinámicos también son esenciales 
 
 Adicionalmente, se han desarrollado algoritmos eficientes para modelar la interacción entre imperfecciones estructurales, como las que aparecen en placas elásticas bajo un campo de estrés uniforme. Utilizando herramientas computacionales como AutoCAD y el lenguaje de programación LISP, se han simulado configuraciones de agujeros circulares en placas y validado los resultados mediante elementos finitos. Estos avances permiten evaluar con precisión la interacción entre defectos y mejorar el diseño estructural (Monroy & Godoy, 1999)[^3].
 
-En este proyecto, se utilizó Onshape para ejecutar una simulación de flujo de fluido incompresible, para posteriormente realizar un análisis estructural estático de nuestro sistema utilizado. El objetivo principal es evaluar la automatización del sistema, asegurando que el sistema no necesite ningun tipo uso de fuerzas externas o internas al sistema. Las capacidades avanzadas de SimScale proporciona una base sólida para validar la viabilidad y durabilidad del diseño propuesto.
+En este proyecto, se utilizó Onshape para ejecutar una simulación de flujo de fluido incompresible, para posteriormente realizar un análisis estructural estático de nuestro modelo utilizado. El objetivo principal es evaluar la automatización del modelo, asegurando que el modelo no necesite ningun tipo uso de fuerzas externas o internas al sistema. Las capacidades avanzadas de Onshape proporciona una base sólida para validar la viabilidad y durabilidad del diseño propuesto.
 
 ## 2.Metodologia
 
