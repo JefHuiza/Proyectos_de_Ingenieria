@@ -43,11 +43,14 @@ Los resultados mostraron que las áreas cercanas a los conectores y las esquinas
 
 ## 4.Discuciones 
 
-De acuerdo a la simulación de esfuerzos de Von Mises, los resultados muestran una concentración significativa de tensiones en la parte central de nuestro modelo. Aunque los esfuerzos son elevados en el centroide,  estos no generan sobre estiramiento en nuestro modelo, lo que nos indica que se puede soportar una carga aplicada sin deformación permanente.
+A partir de los resultados obtenidos, hemos podido observar con claridad cómo se comporta la pieza bajo las condiciones de carga aplicadas. El análisis de desplazamiento en el eje Z mostró que las zonas cercanas a los conectores y las esquinas presentan los mayores desplazamientos, llegando a un valor máximo de 2.1109e-7 m. Esto era de esperar, ya que estas áreas están sometidas directamente a las mayores cargas. Sin embargo, la magnitud de estos desplazamientos nos indica que estas zonas podrían estar más vulnerables de lo que anticipábamos. En cuanto a los esfuerzos, los resultados nos revelaron que las mayores concentraciones de tensiones (esfuerzos de Cauchy) se localizan alrededor de los agujeros y las interfaces de los cilindros conectores. Esto es consistente con lo que habíamos proyectado inicialmente, ya que estos puntos actúan como "concentradores de carga". Los esfuerzos máximos registrados llegaron hasta 1.7984e+06 Pa, lo que destaca la necesidad de prestar especial atención a estas áreas para evitar potenciales fallos estructurales.
 
+Ahora bien, para profundizar más en el análisis, consideramos que sería altamente beneficioso incluir un análisis basado en los esfuerzos de Von Mises. Este tipo de análisis nos permitirá evaluar mejor si el material está cerca de fallar bajo las tensiones aplicadas. Recordemos que el criterio de Von Mises es esencial para predecir la deformación plástica, y en este caso, sería útil saber si las áreas críticas ya están cerca del límite de fluencia del material. Así, podríamos ajustar el diseño antes de que ocurra un fallo.
 
 ## 5.Conclusiones
+La visualización de los resultados a través de la escala de colores nos ayudó a comprender de manera clara la distribución de tensiones en la pieza. Mientras que las zonas centrales muestran un comportamiento más uniforme, los extremos, especialmente cerca de los conectores, son los puntos más vulnerables.
 
+A partir de estos resultados, consideramos que sería necesario reforzar las áreas con mayores concentraciones de esfuerzos para evitar posibles fallos estructurales. Asimismo, la implementación de un análisis basado en los esfuerzos de Von Mises podría complementar este estudio, brindándonos una perspectiva más detallada sobre la capacidad del material para resistir deformaciones plásticas bajo las cargas aplicadas. En conclusión, los hallazgos obtenidos nos proporcionan ya una base para optimizar el diseño de la pieza, asegurando un mejor rendimiento y una mayor durabilidad en futuras aplicaciones.
 
 ## 6.Referencias
 
