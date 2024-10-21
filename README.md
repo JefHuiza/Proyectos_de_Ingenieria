@@ -45,7 +45,19 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 Funcionamiento de los sensores:
 
 - Sensor de caudal de agua YS-201:
-- Sensor de turbidez (TS-300B)
+-Meición de  calidad del agua desalinizada  con arduino
+Componentes utilizados:
+-  Sensor de turbidez (TS-300B)
+- Microcontrador arduino
+- Cables de conexión y módulo  TSW-20M para la conversión para la señal
+- Flujo conceptual:
+- Entrada: Agua desalinizada después del proceso de destilación
+- Medición: Sensor TS-300B mide la turbidez
+- Validación: Arduino verifica si el valor de turbidez es < 5 NTU
+- Salida:
+-  Agua aceptable: Almacenamiento para uso humano.
+ - Agua no aceptable: Redirigida para uso alternativo
+  
 
 # **Bibliografía**
   - ODS 6 Agua limpia y saneamiento . (2021, 11 de octubre). Pacto Mundial. https://www.pactomundial.org/ods/6-agua-limpia-y-saneamiento/
