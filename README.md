@@ -76,7 +76,8 @@ Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe d
 
 El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
 
--  Sensor de turbidez TS-300B: Costa de un  diodo infrarrojo y un fototransistor posisionados uno en frente de otro.La luz detectada por el
+-  Sensor de turbidez TS-300B:
+Costa de un  diodo infrarrojo y un fototransistor posisionados uno en frente de otro.La luz detectada por el
 fototransistor es traducida en señal de voltaje que, mediante una curva de calibración, se convierte
 matemáticamente en unidades de turbidez. De esta forma se detecta el grado de absorción de la luz
 por las partículas sus-pendidas o sólidos totales disueltos
