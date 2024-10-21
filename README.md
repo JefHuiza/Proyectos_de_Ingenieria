@@ -45,19 +45,26 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 Funcionamiento de los sensores:
 
 - Sensor de caudal de agua YS-201:
-Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe de entrar en contacto con el agua que esta fluyendo a través del sensor. Mediante la rotación de la hélice por el flujo del caudal de agua, se activara el sensor de efecto Hall y emitirá un pulso electromagnético. Este pulso electromagnético puede ser convertido  en litros de agua que pasa por el sensor mediante una formula.
+-Meición de  calidad del agua desalinizada  con arduino
+
+Componentes utilizados:
+-  Sensor de turbidez (TS-300B): Costa de un  diodo infrarrojo y un fototransistor posisionados uno en frente de otro.La luz detectada por el
+fototransistor es traducida en señal de voltaje que, mediante una curva de calibración, se convierte
+matemáticamente en unidades de turbidez. De esta forma se detecta el grado de absorción de la luz
+por las partículas sus-pendidas o sólidos totales disueltos
 
 <p align="center">
-  <img src="https://theorycircuit.com/wp-content/uploads/2017/11/how-water-flow-sensor-works.png" alt="Imagen 3" width="400px" />
+  <img src="https://github.com/user-attachments/assets/d03827ca-bb05-44ae-a387-875165515b08" alt="Sensor Turbidez" width="600">
 </p>
 
-El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
 
--Meición de  calidad del agua desalinizada  con arduino
-Componentes utilizados:
--  Sensor de turbidez (TS-300B)
-- Microcontrador arduino
-- Cables de conexión y módulo  TSW-20M para la conversión para la señal
+
+- Microcontrador arduino:  Es una tarjeta de interfase con entradas y salidas analógicas y digitales
+para la conversión de las señales de voltaje de sensores a lenguaje máquina.
+- Cables de conexión
+- módulo  TSW-20M: convierte la señal del sensor modelo TS-300B en señal de
+voltaje. A menor voltaje, mayor será la turbidez de la muestra.
+
 - Flujo conceptual:
 - Entrada: Agua desalinizada después del proceso de destilación
 - Medición: Sensor TS-300B mide la turbidez
