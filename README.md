@@ -102,23 +102,25 @@ voltaje. A menor voltaje, mayor será la turbidez de la muestra.
 Guerrero-Escobedo, A. E., Vásquez-Blas, C., Reyes-Lázaro, W., Wong-López, E. S., & Verde-Luján, H. E. (2022). Ensamblaje, calibración y puesta a prueba de sensor de turbidez de bajo costo para monitoreo de calidad de agua. QuanTUNAB, 1(2), e16. https://doi.org/10.52807/qunab.v1i2.16
 
 
-##Sensor de conductividad TDS##
-
-###Principio de Funcionamiento:###
+Sensor de conductividad TDS
+Principio de Funcionamiento:
 
 El sensor de conductividad TDS funciona mediante la medición de la conductividad eléctrica del agua. Cuanta más salinidad tenga el agua, mayor será su conductividad. Hay dos métodos para realizar la medición: El método conductivo que usa electrodos que tiene contacto directo con el agua y el método inductivo que usa bobinas para crear un campo magnético. El método inductivo mide la conductividad sin tener contacto con el agua directamente, eso reduce problemas de corrosión y limpieza , haciéndolo ideal para un monitoreo porlogando.
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/da11b163-c9cf-4ce8-8c9d-19c59e127b7d" width="250" />
 </div>
+
 Figura 2. Circuito eléctrico del sensor
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/cc152ae4-ecb7-4d3b-9fd6-9f2c02c51d88" width="250" />
 </div>
+
 Figura 3. Circuito eléctrico del sensor
 
 Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza electromotriz (emf) inducida se tiene:
+
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/c33d6896-bf9d-4a40-bb96-0fd1d6d53ff6" width="250" />
 </div>
