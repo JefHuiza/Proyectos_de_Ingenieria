@@ -84,13 +84,14 @@ matemáticamente en unidades de turbidez. De esta forma se detecta el grado de a
 por las partículas sus-pendidas o sólidos totales disueltos
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d03827ca-bb05-44ae-a387-875165515b08" alt="Sensor Turbidez" width="600">
+  <img src="https://github.com/user-attachments/assets/d03827ca-bb05-44ae-a387-875165515b08" alt="Sensor Turbidez" width="300">
 </p>
+
 
 
 -Sensor de luz (BH1750)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5fc26b8-d30d-4f5d-804e-d69d6749c4ec" alt="Sensor Turbidez" width="600">
+  <img src="https://github.com/user-attachments/assets/c5fc26b8-d30d-4f5d-804e-d69d6749c4ec" alt="Sensor Turbidez" width="300">
 </p>
 _Figura 1. sensor de luz BH 1750_
 
@@ -102,12 +103,12 @@ Rango de Lectura: El BH1750 puede medir niveles de luz desde 0.11 lux hasta 100,
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6723bc22-7850-4065-91c7-e951c3d9b1e7" alt="Sensor Turbidez" width="600">
+  <img src="https://github.com/user-attachments/assets/6723bc22-7850-4065-91c7-e951c3d9b1e7" alt="Sensor Turbidez" width="300">
 </p>
 _Figura 2 Funcionamiento_
 
 <p align="center">
-  <img src="ttps://github.com/user-attachments/assets/19d4d94d-129a-45f2-8707-2d74bdb236a2" alt="Sensor Turbidez" width="600">
+  <img src="https://github.com/user-attachments/assets/19d4d94d-129a-45f2-8707-2d74bdb236a2" alt="Sensor Turbidez" width="300">
 </p>
 
 
