@@ -102,13 +102,13 @@ voltaje. A menor voltaje, mayor será la turbidez de la muestra.
 - Agua aceptable: Almacenamiento para uso humano.
   Agua no aceptable: Redirigida para uso alternativo
 
--Sensor de luz (BH1750)
+Sensor de luz (BH1750)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5fc26b8-d30d-4f5d-804e-d69d6749c4ec" alt="Sensor Turbidez" width="300">
 </p>
 _Figura 1. sensor de luz BH 1750_
 
-Princpio de funcionamiento
+Principio de funcionamiento
 El sensor BH1750 es un sensor de luz digital que mide la intensidad de la luz ambiente en lux. Se basa en un fotodiodo que convierte la luz en una corriente eléctrica, y utiliza un conversor analógico a digital (ADC) para ofrecer una lectura digital precisa a través de una interfaz I2C. 
 Principio de Funcionamiento: Fotodiodo: El sensor utiliza un fotodiodo que convierte la luz en corriente eléctrica. Cuanta más luz incide en el fotodiodo, mayor es la corriente generada. 
 Conversión Analógica a Digital: El BH1750 tiene un ADC integrado que convierte la señal analógica de corriente a un valor digital, que se mide en lux (unidad de medida de la iluminancia). Este valor es luego enviado al microcontrolador (por ejemplo, un Arduino) a través del protocolo I2C. 
