@@ -45,24 +45,27 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 - Sonda y controlador de pH (5V)
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="250" />
+  <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="250" style="display: block; margin: auto;" />
 </div>
+
 
 Principio de funcionamiento de un sensor de pH:
 
 El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.[^1]
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/c15f9b1a-fb0e-4f2a-a4e8-3785c8148e2d" alt="electrodo 1" width="250" />
+  <img src="https://github.com/user-attachments/assets/c15f9b1a-fb0e-4f2a-a4e8-3785c8148e2d" alt="electrodo 1" width="250" style="display: block; margin: auto;" />
 </div>
+
 
 _Fig. 1. Membrana intercambiadora de iones de un electrodo de vidrio_
 
 El pH se mide evaluando el potencial eléctrico generado por un electrodo, que luego se compara con el de un electrodo de referencia, el cual mantiene un potencial constante. El electrodo de referencia, comúnmente de calomel saturado en cloruro de potasio, actúa como un puente salino que facilita la medición. El método más utilizado actualmente es el electrodo de combinación, que integra el electrodo sensor y el de referencia en una sola unidad. Sin embargo, en la industria todavía se prefieren los electrodos separados para obtener señales más fiables y facilitar el mantenimiento.
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/fdb89657-dff9-4ae4-8802-c42d73712dd2" alt="funcionamiento 1" width="250" />
+  <img src="https://github.com/user-attachments/assets/fdb89657-dff9-4ae4-8802-c42d73712dd2" alt="funcionamiento 1" width="250" style="display: block; margin: auto;" />
 </div>
+
 
 _Fig. 2. Esquema de electrodo de calomel saturado y de vidrio_
 
