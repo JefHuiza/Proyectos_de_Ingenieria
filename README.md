@@ -40,9 +40,7 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 <img src="https://github.com/user-attachments/assets/cffd39e8-b249-4698-b3f7-9a9d41670421" alt="Imagen 1" width="300px" />
 </p>
 
-# **TRL-1:**
-
-### Funcionamiento de los sensores:
+# **TRL-1: Funcionamiento de los sensores**
 
 - Sonda y controlador de pH (5V)
 
