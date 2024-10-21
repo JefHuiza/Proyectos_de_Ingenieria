@@ -90,7 +90,8 @@ matemáticamente en unidades de turbidez. De esta forma se detecta el grado de a
 por las partículas sus-pendidas o sólidos totales disueltos
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d03827ca-bb05-44ae-a387-875165515b08" alt="Sensor Turbidez" width="300">
+  <img src="![image](https://github.com/user-attachments/assets/bc64ee03-1eda-4e3b-89e1-dd179394349a)
+" alt="Sensor Turbidez" width="300">
 </p>
 
 - Sensor de luz (BH1750)
