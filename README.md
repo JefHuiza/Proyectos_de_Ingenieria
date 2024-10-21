@@ -92,24 +92,12 @@ por las partículas sus-pendidas o sólidos totales disueltos
   <img src="https://github.com/user-attachments/assets/d03827ca-bb05-44ae-a387-875165515b08" alt="Sensor Turbidez" width="300">
 </p>
 
-- Microcontrador arduino: Para conectar el sensor y adquirir datos en tiempo real.  
-- Cables de conexión
-- módulo  TSW-20M: convierte la señal del sensor modelo TS-300B en señal de
-voltaje. A menor voltaje, mayor será la turbidez de la muestra.
-
-- Flujo conceptual:
--  Entrada: Agua desalinizada después del proceso de destilación
-   Medición: Sensor TS-300B mide la turbidez
-   Validación: Arduino verifica si el valor de turbidez es < 5 NTU
-- Salida:
-- Agua aceptable: Almacenamiento para uso humano.
-  Agua no aceptable: Redirigida para uso alternativo
-
-Sensor de luz (BH1750)
+- Sensor de luz (BH1750)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5fc26b8-d30d-4f5d-804e-d69d6749c4ec" alt="Sensor Turbidez" width="300">
 </p>
-_Figura 1. sensor de luz BH 1750_
+
+_Figura 3. sensor de luz BH 1750_
 
 Principio de funcionamiento
 El sensor BH1750 es un sensor de luz digital que mide la intensidad de la luz ambiente en lux. Se basa en un fotodiodo que convierte la luz en una corriente eléctrica, y utiliza un conversor analógico a digital (ADC) para ofrecer una lectura digital precisa a través de una interfaz I2C. 
@@ -117,11 +105,11 @@ Principio de Funcionamiento: Fotodiodo: El sensor utiliza un fotodiodo que convi
 Conversión Analógica a Digital: El BH1750 tiene un ADC integrado que convierte la señal analógica de corriente a un valor digital, que se mide en lux (unidad de medida de la iluminancia). Este valor es luego enviado al microcontrolador (por ejemplo, un Arduino) a través del protocolo I2C. 
 Rango de Lectura: El BH1750 puede medir niveles de luz desde 0.11 lux hasta 100,000 lux, lo que lo hace útil en condiciones de poca o mucha iluminación, como interiores y exteriores.[^2]
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6723bc22-7850-4065-91c7-e951c3d9b1e7" alt="Sensor Turbidez" width="300">
 </p>
-_Figura 2 Funcionamiento_
+
+_Figura 4 Funcionamiento_
 
 Tabla de guia de los valores de luz 
 <p align="center">
@@ -140,14 +128,14 @@ El sensor de conductividad TDS funciona mediante la medición de la conductivida
   <img src="https://github.com/user-attachments/assets/da11b163-c9cf-4ce8-8c9d-19c59e127b7d" width="350" />
 </div>
 
-_Figura 2. Circuito eléctrico del sensor_
+_Figura 5. Circuito eléctrico del sensor_
 
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/cc152ae4-ecb7-4d3b-9fd6-9f2c02c51d88" width="350" />
 </div>
 
-_Figura 3. Circuito eléctrico del sensor_
+_Figura 6. Circuito eléctrico del sensor_
 
 
 Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza electromotriz (emf) inducida se tiene:
