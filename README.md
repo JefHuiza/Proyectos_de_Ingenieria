@@ -45,6 +45,15 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 Funcionamiento de los sensores:
 
 - Sensor de caudal de agua YS-201:
+Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe de entrar en contacto con el agua que esta fluyendo a través del sensor. Mediante la rotación de la hélice por el flujo del caudal de agua, se activara el sensor de efecto Hall y emitirá un pulso electromagnético. Este pulso electromagnético puede ser convertido  en litros de agua que pasa por el sensor mediante una formula (FORMULA).
+
+<p align="center">
+  <img src="
+https://theorycircuit.com/wp-content/uploads/2017/11/how-water-flow-sensor-works-1024x554.png" alt="Imagen 3" width="200px" />
+</p>
+
+El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
+
 -Meición de  calidad del agua desalinizada  con arduino
 Componentes utilizados:
 -  Sensor de turbidez (TS-300B)
