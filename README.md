@@ -44,9 +44,9 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 
 - Sonda y controlador de pH (5V)
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="250" style="display: block; margin: auto;" />
-</div>
+</p>
 
 
 Principio de funcionamiento de un sensor de pH:
