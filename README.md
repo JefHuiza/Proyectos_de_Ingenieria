@@ -47,7 +47,7 @@ Funcionamiento de los sensores:
 - Sonda y controlador de pH (5V)
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="600" />
+  <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="200" />
 </div>
 
 Hemos desarrollado un sistema de medición de pH utilizando una **sonda de pH con un controlador de 5V**, compatible con Arduino. Nuestro sensor ha sido probado en laboratorio, donde hemos validado su funcionamiento en un entorno controlado. Para asegurar la precisión de las lecturas, lo hemos calibrado con **soluciones tampón de pH conocidas**, logrando un error de ±0.01 unidades de pH, lo que garantiza resultados fiables en esta fase de desarrollo.  
@@ -59,14 +59,11 @@ La medición del pH es fundamental en muchos procesos industriales, científicos
 ## Definición de pH:  
 Cuando una sustancia se disuelve en agua, se separa en partículas más pequeñas llamadas iones, y se forma un equilibrio entre la sustancia original no disociada y sus iones componentes. Al alcanzar este equilibrio, los iones se vuelven a combinar para formar la sustancia inicial a una velocidad que equilibra la tasa de disociación. Para el agua la constante de equilibrio es **K_eq**.[^1]
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/9640a958-0183-4b85-9dac-9349c26c7628" alt="formula 1- definicion de pH" width="600" />
-</div>
 
 De esta ecuación se deriva la fórmula donde pH significa potencia negativa de la concentración de ion hidrógeno.[^1]
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/b4cb7db7-8697-4c5c-8d4a-e15a3b03d957" alt="formula 2" width="600" />
+  <img src="https://github.com/user-attachments/assets/b4cb7db7-8697-4c5c-8d4a-e15a3b03d957" alt="formula 2" width="100" />
 </div>
 
 
@@ -75,7 +72,7 @@ De esta ecuación se deriva la fórmula donde pH significa potencia negativa de 
 El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/c15f9b1a-fb0e-4f2a-a4e8-3785c8148e2d" alt="electrodo 1" width="600" />
+  <img src="https://github.com/user-attachments/assets/c15f9b1a-fb0e-4f2a-a4e8-3785c8148e2d" alt="electrodo 1" width="200" />
 </div>
 
 _Fig. 1. Membrana intercambiadora de iones de un electrodo de vidrio_
@@ -88,20 +85,6 @@ El pH se mide evaluando el potencial eléctrico generado por un electrodo, que l
 
 _Fig. 2. Esquema de electrodo de calomel saturado y de vidrio_
 
-## Ley de Nernst:  
-El principio de medición se basa en la ecuación de Nernst, que describe cómo el potencial eléctrico (voltaje) entre el electrodo sensible y el electrodo de referencia depende de la concentración de iones de hidrógeno en la solución. La ecuación de Nernst es:
-
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/321f4809-bd8d-4e2b-96ae-c24d8e62d225" alt="ecuacion de Nernst" width="600" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/94acc2f7-ed8a-41fc-a032-7a9d1be4665d" alt="CIRCUITO DE ELECTRODO" width="600" />
-</div>
-
-_Fig. 3. Circuito de un Electrodo de Referencia_
-
----
 
 [^1]: Ciganda, L. M., Quim, I., & Bussi, J. (2004). Electrodos para medir pH (Junio 2004). In _Monografía vinculada a la conferencia del Ing. Quim. Juan Bussi: “Biosensores para determinaciones analíticas”_, del (Vol. 20).
 
