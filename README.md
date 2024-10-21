@@ -40,6 +40,14 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 <img src="https://github.com/user-attachments/assets/cffd39e8-b249-4698-b3f7-9a9d41670421" alt="Imagen 1" width="300px" />
 </p>
 
+## **TRL-1:**
+
+- Identificación del principio de la tecnología
+- Generación del conocimiento
+- Responde a una pregunta de investigación
+- No declara un uso aplicativo
+- Genera como resultado articulos cientificos
+
 # **Bibliografía**
   - ODS 6 Agua limpia y saneamiento . (2021, 11 de octubre). Pacto Mundial. https://www.pactomundial.org/ods/6-agua-limpia-y-saneamiento/
   - 7. Energía asequible y no contaminante . (s/f). Agenda2030lac.org. Recuperado el 1 de septiembre de 2024, de https://agenda2030lac.org/es/ods/7-energia-asequible-y-no-contaminante
