@@ -48,9 +48,6 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
   <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="250" style="display: block; margin: auto;" />
 </p>
 
-
-Principio de funcionamiento de un sensor de pH:
-
 El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.[^1]
 
 <div style="text-align: center;">
@@ -65,21 +62,16 @@ El pH se mide evaluando el potencial eléctrico generado por un electrodo, que l
   <img src="https://github.com/user-attachments/assets/fdb89657-dff9-4ae4-8802-c42d73712dd2" alt="funcionamiento 1" width="250" style="display: block; margin: auto;" />
 </div>
 
-
 _Fig. 2. Esquema de electrodo de calomel saturado y de vidrio_
 
-
 [^1]: Ciganda, L. M., Quim, I., & Bussi, J. (2004). Electrodos para medir pH (Junio 2004). In _Monografía vinculada a la conferencia del Ing. Quim. Juan Bussi: “Biosensores para determinaciones analíticas”_, del (Vol. 20).
-
 
 - Sensor de caudal de agua YS-201:
 
 Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe de entrar en contacto con el agua que esta fluyendo a través del sensor. Mediante la rotación de la hélice por el flujo del caudal de agua, se activara el sensor de efecto Hall y emitirá un pulso electromagnético. Este pulso electromagnético puede ser convertido  en litros de agua que pasa por el sensor mediante una formula (FORMULA).
 
 <p align="center">
-  <img src="
-![image](https://github.com/user-attachments/assets/8bb09cea-ab52-415d-b45e-ade216ff2fa8)
-" alt="Imagen 3" width="400px" />
+  <img src="https://naylampmechatronics.com/300-medium_default_2x/sensor-de-flujo-de-agua-12-yf-s201.jpg" alt="Sensor de caudal de agua" width="400px" />
 </p>
 
 El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
