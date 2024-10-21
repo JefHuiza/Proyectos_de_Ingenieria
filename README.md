@@ -104,8 +104,6 @@ Guerrero-Escobedo, A. E., Vásquez-Blas, C., Reyes-Lázaro, W., Wong-López, E. 
 
 Sensor de conductividad TDS
 
-Principio de Funcionamiento:
-
 El sensor de conductividad TDS funciona mediante la medición de la conductividad eléctrica del agua. Cuanta más salinidad tenga el agua, mayor será su conductividad. Hay dos métodos para realizar la medición: El método conductivo que usa electrodos que tiene contacto directo con el agua y el método inductivo que usa bobinas para crear un campo magnético. El método inductivo mide la conductividad sin tener contacto con el agua directamente, eso reduce problemas de corrosión y limpieza , haciéndolo ideal para un monitoreo porlogando.
 
 <div style="text-align: center;">
@@ -114,17 +112,20 @@ El sensor de conductividad TDS funciona mediante la medición de la conductivida
 
 Figura 2. Circuito eléctrico del sensor
 
+
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/cc152ae4-ecb7-4d3b-9fd6-9f2c02c51d88" width="350" />
 </div>
 
 Figura 3. Circuito eléctrico del sensor
 
+
 Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza electromotriz (emf) inducida se tiene:
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/c33d6896-bf9d-4a40-bb96-0fd1d6d53ff6" width="350" />
 </div>
+
 
 Parra, L., Sendra, S., Lloret, J., & Bosch, I. (2015). Development of a conductivity sensor for monitoring groundwater resources to optimize water management in smart city environments. Sensors, 15(9), 20990-21015.
 
