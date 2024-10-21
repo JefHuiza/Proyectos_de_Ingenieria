@@ -87,9 +87,9 @@ por las partículas sus-pendidas o sólidos totales disueltos
 
 - Sensor de luz (BH1750)
 
-<p align="center">
+</div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/c5fc26b8-d30d-4f5d-804e-d69d6749c4ec" alt="Sensor Turbidez" width="300">
-</p>
+</div>
 
 _Figura 3. sensor de luz BH 1750_
 
