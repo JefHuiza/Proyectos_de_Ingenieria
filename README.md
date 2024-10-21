@@ -88,10 +88,7 @@ por las partículas sus-pendidas o sólidos totales disueltos
 </p>
 
 
--Sensor de luz (BH1750)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5fc26b8-d30d-4f5d-804e-d69d6749c4ec" alt="Sensor Turbidez" width="300">
-</p>
+
 - Microcontrador arduino: Para conectar el sensor y adquirir datos en tiempo real.  
 - Cables de conexión
 - módulo  TSW-20M: convierte la señal del sensor modelo TS-300B en señal de
