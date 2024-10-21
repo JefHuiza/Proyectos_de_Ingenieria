@@ -86,20 +86,21 @@ por las partículas sus-pendidas o sólidos totales disueltos
 
 
 
-- Microcontrador arduino:  Es una tarjeta de interfase con entradas y salidas analógicas y digitales
-para la conversión de las señales de voltaje de sensores a lenguaje máquina.
+- Microcontrador arduino: Para conectar el sensor y adquirir datos en tiempo real.  
 - Cables de conexión
 - módulo  TSW-20M: convierte la señal del sensor modelo TS-300B en señal de
 voltaje. A menor voltaje, mayor será la turbidez de la muestra.
 
 - Flujo conceptual:
-- Entrada: Agua desalinizada después del proceso de destilación
-- Medición: Sensor TS-300B mide la turbidez
-- Validación: Arduino verifica si el valor de turbidez es < 5 NTU
+-  Entrada: Agua desalinizada después del proceso de destilación
+   Medición: Sensor TS-300B mide la turbidez
+   Validación: Arduino verifica si el valor de turbidez es < 5 NTU
 - Salida:
--  Agua aceptable: Almacenamiento para uso humano.
- - Agua no aceptable: Redirigida para uso alternativo
+- Agua aceptable: Almacenamiento para uso humano.
+  Agua no aceptable: Redirigida para uso alternativo
   
+Guerrero-Escobedo, A. E., Vásquez-Blas, C., Reyes-Lázaro, W., Wong-López, E. S., & Verde-Luján, H. E. (2022). Ensamblaje, calibración y puesta a prueba de sensor de turbidez de bajo costo para monitoreo de calidad de agua. QuanTUNAB, 1(2), e16. https://doi.org/10.52807/qunab.v1i2.16
+
 
 # **Bibliografía**
   - ODS 6 Agua limpia y saneamiento . (2021, 11 de octubre). Pacto Mundial. https://www.pactomundial.org/ods/6-agua-limpia-y-saneamiento/
