@@ -49,7 +49,7 @@ Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe d
 
 <p align="center">
   <img src="
-https://theorycircuit.com/wp-content/uploads/2017/11/how-water-flow-sensor-works-1024x554.png" alt="Imagen 3" width="200px" />
+https://theorycircuit.com/wp-content/uploads/2017/11/how-water-flow-sensor-works.png" alt="Imagen 3" width="200px" />
 </p>
 
 El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
