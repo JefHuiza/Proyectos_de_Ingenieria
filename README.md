@@ -82,7 +82,8 @@ Posee un diodo infrarrojo y un fototransistor colocados de manera opuesta.La luz
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d03827ca-bb05-44ae-a387-875165515b08" alt="Sensor Turbidez" width="300">
 </p>
-Parámetro clave: La turbidez en unidades NTU  menor a 5,
+- Parámetro clave: La turbidez en unidades NTU  menor a 5
+
 Arduino como microcontrolador: Para conectar el sensor y adquirir datos en tiempo real.
 Curva de calibración: Necesario desarrollar una curva para relacionar el voltaje medido con las unidades de turbidez.
 
