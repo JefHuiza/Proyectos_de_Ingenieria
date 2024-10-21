@@ -54,7 +54,7 @@ Hemos desarrollado un sistema de medición de pH utilizando una **sonda de pH co
 
 - Principio de funcionamiento de un sensor de pH:
 
-El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.
+El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.[^1]
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/c15f9b1a-fb0e-4f2a-a4e8-3785c8148e2d" alt="electrodo 1" width="250" />
@@ -74,8 +74,9 @@ _Fig. 2. Esquema de electrodo de calomel saturado y de vidrio_
 [^1]: Ciganda, L. M., Quim, I., & Bussi, J. (2004). Electrodos para medir pH (Junio 2004). In _Monografía vinculada a la conferencia del Ing. Quim. Juan Bussi: “Biosensores para determinaciones analíticas”_, del (Vol. 20).
 
 
-##- Sensor de caudal de agua YS-201:
--Medición de  calidad del agua desalinizada  con arduino
+## Sensor de caudal de agua YS-201:
+
+- Medición de  calidad del agua desalinizada  con arduino
 
 Componentes utilizados:
 -  Sensor de turbidez (TS-300B): Costa de un  diodo infrarrojo y un fototransistor posisionados uno en frente de otro.La luz detectada por el
