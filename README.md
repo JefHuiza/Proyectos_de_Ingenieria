@@ -72,11 +72,17 @@ _Fig. 2. Esquema de electrodo de calomel saturado y de vidrio_
 [^1]: Ciganda, L. M., Quim, I., & Bussi, J. (2004). Electrodos para medir pH (Junio 2004). In _Monografía vinculada a la conferencia del Ing. Quim. Juan Bussi: “Biosensores para determinaciones analíticas”_, del (Vol. 20).
 
 
-Sensor de caudal de agua YS-201:
+- Sensor de caudal de agua YS-201:
 
-- Medición de  calidad del agua desalinizada  con arduino
+Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe de entrar en contacto con el agua que esta fluyendo a través del sensor. Mediante la rotación de la hélice por el flujo del caudal de agua, se activara el sensor de efecto Hall y emitirá un pulso electromagnético. Este pulso electromagnético puede ser convertido  en litros de agua que pasa por el sensor mediante una formula (FORMULA).
 
-Componentes utilizados:
+<p align="center">
+  <img src="
+https://theorycircuit.com/wp-content/uploads/2017/11/how-water-flow-sensor-works-1024x554.png" alt="Imagen 3" width="400px" />
+</p>
+
+El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
+
 -  Sensor de turbidez (TS-300B): Costa de un  diodo infrarrojo y un fototransistor posisionados uno en frente de otro.La luz detectada por el
 fototransistor es traducida en señal de voltaje que, mediante una curva de calibración, se convierte
 matemáticamente en unidades de turbidez. De esta forma se detecta el grado de absorción de la luz
@@ -85,8 +91,6 @@ por las partículas sus-pendidas o sólidos totales disueltos
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d03827ca-bb05-44ae-a387-875165515b08" alt="Sensor Turbidez" width="300">
 </p>
-
-
 
 - Microcontrador arduino: Para conectar el sensor y adquirir datos en tiempo real.  
 - Cables de conexión
