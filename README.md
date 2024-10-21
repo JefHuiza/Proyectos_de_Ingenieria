@@ -40,11 +40,11 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 <img src="https://github.com/user-attachments/assets/cffd39e8-b249-4698-b3f7-9a9d41670421" alt="Imagen 1" width="300px" />
 </p>
 
-## **TRL-1:**
+# **TRL-1:**
 
-Funcionamiento de los sensores:
+### Funcionamiento de los sensores:
 
-- Sonda y controlador de pH (5V)
+## Sonda y controlador de pH (5V)
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="250" />
@@ -74,8 +74,8 @@ _Fig. 2. Esquema de electrodo de calomel saturado y de vidrio_
 [^1]: Ciganda, L. M., Quim, I., & Bussi, J. (2004). Electrodos para medir pH (Junio 2004). In _Monografía vinculada a la conferencia del Ing. Quim. Juan Bussi: “Biosensores para determinaciones analíticas”_, del (Vol. 20).
 
 
-- Sensor de caudal de agua YS-201:
--Meición de  calidad del agua desalinizada  con arduino
+##- Sensor de caudal de agua YS-201:
+-Medición de  calidad del agua desalinizada  con arduino
 
 Componentes utilizados:
 -  Sensor de turbidez (TS-300B): Costa de un  diodo infrarrojo y un fototransistor posisionados uno en frente de otro.La luz detectada por el
