@@ -113,14 +113,14 @@ El sensor de conductividad TDS funciona mediante la medición de la conductivida
   <img src="https://github.com/user-attachments/assets/da11b163-c9cf-4ce8-8c9d-19c59e127b7d" width="350" />
 </div>
 
-Figura 2. Circuito eléctrico del sensor
+_Figura 2. Circuito eléctrico del sensor_
 
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/cc152ae4-ecb7-4d3b-9fd6-9f2c02c51d88" width="350" />
 </div>
 
-Figura 3. Circuito eléctrico del sensor
+_Figura 3. Circuito eléctrico del sensor_
 
 
 Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza electromotriz (emf) inducida se tiene:
