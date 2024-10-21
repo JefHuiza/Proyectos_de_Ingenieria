@@ -77,15 +77,30 @@ Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe d
 El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
 
 -  Sensor de turbidez TS-300B:
-Costa de un  diodo infrarrojo y un fototransistor posisionados uno en frente de otro.La luz detectada por el
+Posee un diodo infrarrojo y un fototransistor posisionados uno en frente de otro.La luz detectada por el
 fototransistor es traducida en señal de voltaje que, mediante una curva de calibración, se convierte
 matemáticamente en unidades de turbidez. De esta forma se detecta el grado de absorción de la luz
-por las partículas sus-pendidas o sólidos totales disueltos
+por las partículas sólidos disueltos o suspendidos. Asi mismo, funciona con una alimentación de 5 voltios de corriente continua (DC), Consumo de corriente eléctrica de 30 miliamperios (mA), Rango de temperatura en el que puede operar, desde -30 grados Celsius hasta 80 grados Celsius. Rango de medición de turbidez, en unidades NTU (Nephelometric Turbidity Units). Es capaz de medir turbideces desde 0 (agua limpia) hasta 1000 NTU (agua muy turbia)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d03827ca-bb05-44ae-a387-875165515b08" alt="Sensor Turbidez" width="300">
 </p>
+Parámetro clave: La turbidez en unidades NTU  menor a 5
+Arduino como microcontrolador: Para conectar el sensor y adquirir datos en tiempo real.
+Curva de calibración: Es necesario desarrollar una curva para relacionar el voltaje medido con las unidades de turbidez.
 
+Cables de conexión. 
+módulo TSW-20M: Convierte la señal del sensor modelo TS-300B en señal de
+voltaje. A menor voltaje, mayor será la turbidez de la muestra.
+
+ Flujo Conceptual
+1. Entrada: Agua desalinizada después del proceso de destilación solar.
+2. Medición: Sensor TS-300B mide la turbidez.
+3. Validación: Arduino verifica si el valor de turbidez es < 5 NTU.
+4. Salida:
+   - Agua aceptable: Almacenamiento para uso humano.
+   - Agua no aceptable: Redirigida para uso alternativo.
+     
 - Sensor de luz (BH1750)
 
 </div style="text-align: center;">
