@@ -1,4 +1,4 @@
-# **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
+![image](https://github.com/user-attachments/assets/1b9a7cd0-b271-4982-9a49-628684f4ad36)# **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
 # **PROYECTOS DE INGENERIA**
 
 
@@ -78,7 +78,8 @@ Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe d
 
 <p align="center">
   <img src="
-https://theorycircuit.com/wp-content/uploads/2017/11/how-water-flow-sensor-works.png" alt="Imagen 3" width="400px" />
+![image](https://github.com/user-attachments/assets/8bb09cea-ab52-415d-b45e-ade216ff2fa8)
+" alt="Imagen 3" width="400px" />
 </p>
 
 El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
@@ -99,7 +100,6 @@ por las partículas sus-pendidas o sólidos totales disueltos
 
 _Figura 3. sensor de luz BH 1750_
 
-Principio de funcionamiento
 El sensor BH1750 es un sensor de luz digital que mide la intensidad de la luz ambiente en lux. Se basa en un fotodiodo que convierte la luz en una corriente eléctrica, y utiliza un conversor analógico a digital (ADC) para ofrecer una lectura digital precisa a través de una interfaz I2C. 
 Principio de Funcionamiento: Fotodiodo: El sensor utiliza un fotodiodo que convierte la luz en corriente eléctrica. Cuanta más luz incide en el fotodiodo, mayor es la corriente generada. 
 Conversión Analógica a Digital: El BH1750 tiene un ADC integrado que convierte la señal analógica de corriente a un valor digital, que se mide en lux (unidad de medida de la iluminancia). Este valor es luego enviado al microcontrolador (por ejemplo, un Arduino) a través del protocolo I2C. 
