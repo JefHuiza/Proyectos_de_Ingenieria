@@ -47,11 +47,10 @@ Funcionamiento de los sensores:
 - Sonda y controlador de pH (5V)
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="200" />
+  <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="250" />
 </div>
 
-Hemos desarrollado un sistema de medición de pH utilizando una **sonda de pH con un controlador de 5V**, compatible con Arduino. Nuestro sensor ha sido probado en laboratorio, donde hemos validado su funcionamiento en un entorno controlado. Para asegurar la precisión de las lecturas, lo hemos calibrado con **soluciones tampón de pH conocidas**, logrando un error de ±0.01 unidades de pH, lo que garantiza resultados fiables en esta fase de desarrollo.  
-[^1]
+Hemos desarrollado un sistema de medición de pH utilizando una **sonda de pH con un controlador de 5V**, compatible con Arduino. 
 
 ## Principio de funcionamiento de un sensor de pH:
 
