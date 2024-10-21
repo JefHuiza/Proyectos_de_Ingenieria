@@ -57,6 +57,10 @@ El electrodo de vidrio es el componente clave en la medición electrométrica de
   <img src="https://github.com/user-attachments/assets/c15f9b1a-fb0e-4f2a-a4e8-3785c8148e2d" alt="electrodo 1" width="250" style="display: block; margin: auto;" />
 </p>
 
+<p style="text-align:center;"> 
+  Text_content
+</p>
+
 <p style="text-align: center;">Elemento centrado</p>
 
 <p style="text-align: center;">_Fig. 1. Membrana intercambiadora de iones de un electrodo de vidrio_</p> 
