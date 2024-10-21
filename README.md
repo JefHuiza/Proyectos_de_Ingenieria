@@ -85,9 +85,9 @@ Posee un diodo infrarrojo y un fototransistor colocados de manera opuesta.La luz
 - Parámetro clave: La turbidez en unidades NTU  menor a 5
 
 - Arduino como microcontrolador: Para conectar el sensor y adquirir datos en tiempo real.
-- 
+  
 - Curva de calibración: Necesario desarrollar una curva para relacionar el voltaje medido con las unidades de turbidez.
-- 
+ 
 -  Turbidímetro comercial HACH 2100 Q: Para la comparación de datos obtenidos  del sensor de turbidez modelo
 TS-300B.
 
