@@ -71,7 +71,7 @@ _Fig. 2. Esquema de electrodo de calomel saturado y de vidrio_
 Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe de entrar en contacto con el agua que esta fluyendo a través del sensor. Mediante la rotación de la hélice por el flujo del caudal de agua, se activara el sensor de efecto Hall y emitirá un pulso electromagnético. Este pulso electromagnético puede ser convertido  en litros de agua que pasa por el sensor mediante una formula (FORMULA).
 
 <p align="center">
-  <img src="https://naylampmechatronics.com/300-medium_default_2x/sensor-de-flujo-de-agua-12-yf-s201.jpg" alt="Sensor de caudal de agua" width="400px" />
+  <img src="https://theorycircuit.com/wp-content/uploads/2017/11/how-water-flow-sensor-works.png" alt="Sensor de caudal de agua" width="400px" />
 </p>
 
 El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
@@ -86,6 +86,7 @@ por las partículas sus-pendidas o sólidos totales disueltos
 </p>
 
 - Sensor de luz (BH1750)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5fc26b8-d30d-4f5d-804e-d69d6749c4ec" alt="Sensor Turbidez" width="300">
 </p>
@@ -94,6 +95,7 @@ _Figura 3. sensor de luz BH 1750_
 
 El sensor BH1750 es un sensor de luz digital que mide la intensidad de la luz ambiente en lux. Se basa en un fotodiodo que convierte la luz en una corriente eléctrica, y utiliza un conversor analógico a digital (ADC) para ofrecer una lectura digital precisa a través de una interfaz I2C. 
 Principio de Funcionamiento: Fotodiodo: El sensor utiliza un fotodiodo que convierte la luz en corriente eléctrica. Cuanta más luz incide en el fotodiodo, mayor es la corriente generada. 
+
 Conversión Analógica a Digital: El BH1750 tiene un ADC integrado que convierte la señal analógica de corriente a un valor digital, que se mide en lux (unidad de medida de la iluminancia). Este valor es luego enviado al microcontrolador (por ejemplo, un Arduino) a través del protocolo I2C. 
 Rango de Lectura: El BH1750 puede medir niveles de luz desde 0.11 lux hasta 100,000 lux, lo que lo hace útil en condiciones de poca o mucha iluminación, como interiores y exteriores.[^2]
 
@@ -107,12 +109,10 @@ Tabla de guia de los valores de luz
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19d4d94d-129a-45f2-8707-2d74bdb236a2" alt="Sensor Turbidez" width="300">
 </p>
-
   
 [^2]: Guerrero-Escobedo, A. E., Vásquez-Blas, C., Reyes-Lázaro, W., Wong-López, E. S., & Verde-Luján, H. E. (2022). Ensamblaje, calibración y puesta a prueba de sensor de turbidez de bajo costo para monitoreo de calidad de agua. QuanTUNAB, 1(2), e16. https://doi.org/10.52807/qunab.v1i2.16
 
-
-## Sensor de conductividad TDS
+-Sensor de conductividad TDS
 
 El sensor de conductividad TDS funciona mediante la medición de la conductividad eléctrica del agua. Cuanta más salinidad tenga el agua, mayor será su conductividad. Hay dos métodos para realizar la medición: El método conductivo que usa electrodos que tiene contacto directo con el agua y el método inductivo que usa bobinas para crear un campo magnético. El método inductivo mide la conductividad sin tener contacto con el agua directamente, eso reduce problemas de corrosión y limpieza , haciéndolo ideal para un monitoreo porlogando.[^3]
 
@@ -122,20 +122,17 @@ El sensor de conductividad TDS funciona mediante la medición de la conductivida
 
 _Figura 5. Circuito eléctrico del sensor_
 
-
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/cc152ae4-ecb7-4d3b-9fd6-9f2c02c51d88" width="350" />
 </div>
 
 _Figura 6. Circuito eléctrico del sensor_
 
-
 Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza electromotriz (emf) inducida se tiene:
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/c33d6896-bf9d-4a40-bb96-0fd1d6d53ff6" width="350" />
 </div>
-
 
 [^3]:Parra, L., Sendra, S., Lloret, J., & Bosch, I. (2015). Development of a conductivity sensor for monitoring groundwater resources to optimize water management in smart city environments. Sensors, 15(9), 20990-21015.
 
