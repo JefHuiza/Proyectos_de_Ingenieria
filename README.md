@@ -52,7 +52,7 @@ Funcionamiento de los sensores:
 
 Hemos desarrollado un sistema de medición de pH utilizando una **sonda de pH con un controlador de 5V**, compatible con Arduino. 
 
-## Principio de funcionamiento de un sensor de pH:
+- Principio de funcionamiento de un sensor de pH:
 
 El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.
 
