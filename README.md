@@ -45,6 +45,7 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
 Funcionamiento de los sensores:
 
 - Sensor de caudal de agua YS-201:
+- Sensor de turbidez (TS-300B)
 
 # **Bibliografía**
   - ODS 6 Agua limpia y saneamiento . (2021, 11 de octubre). Pacto Mundial. https://www.pactomundial.org/ods/6-agua-limpia-y-saneamiento/
