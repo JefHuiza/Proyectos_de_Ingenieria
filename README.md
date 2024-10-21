@@ -77,6 +77,7 @@ Dentro del sensor de caudal de agua YF-S201 esta presente una hélice que debe d
 El sensor de efecto Hall que utiliza el sensor es un sensor magnético que detecta la fuerza y dirección del campo magnético producido. 
 
 -  Sensor de turbidez TS-300B:
+
 Posee un diodo infrarrojo y un fototransistor colocados de manera opuesta.La luz que capta el fototransistor se transforma en una señal de voltaje, la cual, tras aplicarle una curva de calibración, se convierte en unidades de turbidez. Así, es posible medir la absorción de luz causada por las partículas suspendidas o dispersas en el agua. Asi mismo, funciona con una alimentación de 5 voltios de corriente continua (DC), Consumo de corriente eléctrica de 30 miliamperios (mA), Rango de temperatura en el que puede operar, desde -30 grados Celsius hasta 80 grados Celsius. Rango de medición de turbidez, en unidades NTU (Nephelometric Turbidity Units). Es capaz de medir turbideces desde 0 (agua limpia) hasta 1000 NTU (agua muy turbia)
 
 <p align="center">
