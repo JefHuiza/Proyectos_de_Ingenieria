@@ -53,20 +53,6 @@ Funcionamiento de los sensores:
 Hemos desarrollado un sistema de medición de pH utilizando una **sonda de pH con un controlador de 5V**, compatible con Arduino. Nuestro sensor ha sido probado en laboratorio, donde hemos validado su funcionamiento en un entorno controlado. Para asegurar la precisión de las lecturas, lo hemos calibrado con **soluciones tampón de pH conocidas**, logrando un error de ±0.01 unidades de pH, lo que garantiza resultados fiables en esta fase de desarrollo.  
 [^1]
 
-## Importancia del pH:  
-La medición del pH es fundamental en muchos procesos industriales, científicos y medioambientales, ya que afecta reacciones químicas, la solubilidad de compuestos, y la actividad biológica.
-
-## Definición de pH:  
-Cuando una sustancia se disuelve en agua, se separa en partículas más pequeñas llamadas iones, y se forma un equilibrio entre la sustancia original no disociada y sus iones componentes. Al alcanzar este equilibrio, los iones se vuelven a combinar para formar la sustancia inicial a una velocidad que equilibra la tasa de disociación. Para el agua la constante de equilibrio es **K_eq**.[^1]
-
-
-De esta ecuación se deriva la fórmula donde pH significa potencia negativa de la concentración de ion hidrógeno.[^1]
-
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/b4cb7db7-8697-4c5c-8d4a-e15a3b03d957" alt="formula 2" width="100" />
-</div>
-
-
 ## Principio de funcionamiento de un sensor de pH:
 
 El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.
