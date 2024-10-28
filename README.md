@@ -22,12 +22,12 @@ En la actualidad, uno de los problemas más críticos a nivel mundial es el acce
 
 **OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef3ad11d-1da3-46ae-bb1c-2b513f35e2d1" alt="Imagen 1" width="200px" />[^0]
-  <img src="https://github.com/user-attachments/assets/fd9a81b6-900a-44ea-9644-73f6422a9856" alt="Imagen 2" width="200px" />[^0]
-  <img src="https://github.com/user-attachments/assets/94e057c3-785a-41a0-b661-d82e6e900cfa" alt="Imagen 3" width="200px" />[^0]
+  <img src="https://github.com/user-attachments/assets/ef3ad11d-1da3-46ae-bb1c-2b513f35e2d1" alt="Imagen 1" width="200px" />
+  <img src="https://github.com/user-attachments/assets/fd9a81b6-900a-44ea-9644-73f6422a9856" alt="Imagen 2" width="200px" />
+  <img src="https://github.com/user-attachments/assets/94e057c3-785a-41a0-b661-d82e6e900cfa" alt="Imagen 3" width="200px" />
 </p>
 
->United Nations Web
+>United Nations Web [^1]
 
 ## **Definicion de las ODS:**
 - ODS 6:Busca garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos.
@@ -48,7 +48,7 @@ Desarrollar y validar un destilador solar de bajo costo para producir agua potab
   <img src="https://github.com/user-attachments/assets/c8051963-c782-42e5-b6f0-ef91b6a44fc1" alt="imagen del sensor pH" width="250" style="display: block; margin: auto;" />
 </p>
 
-El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.[^1]
+El electrodo de vidrio es el componente clave en la medición electrométrica del pH debido a su versatilidad y precisión, superando otros sistemas. Su funcionamiento fue descubierto accidentalmente por McInnes y Dole, quienes notaron la sensibilidad del vidrio a las variaciones de pH. Este electrodo utiliza un vidrio especial que permite el intercambio de iones entre la solución y el electrodo, generando un potencial eléctrico proporcional al pH. Este potencial se transmite mediante un alambre conductor hacia un amplificador, lo que facilita la medición del pH en soluciones acuosas.[^2]
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/c15f9b1a-fb0e-4f2a-a4e8-3785c8148e2d" alt="electrodo 1" width="250" style="display: block; margin: auto;" />
@@ -119,7 +119,7 @@ El sensor BH1750 es un sensor de luz digital que mide la intensidad de la luz am
 Principio de Funcionamiento: Fotodiodo: El sensor utiliza un fotodiodo que convierte la luz en corriente eléctrica. Cuanta más luz incide en el fotodiodo, mayor es la corriente generada. 
 
 Conversión Analógica a Digital: El BH1750 tiene un ADC integrado que convierte la señal analógica de corriente a un valor digital, que se mide en lux (unidad de medida de la iluminancia). Este valor es luego enviado al microcontrolador (por ejemplo, un Arduino) a través del protocolo I2C. 
-Rango de Lectura: El BH1750 puede medir niveles de luz desde 0.11 lux hasta 100,000 lux, lo que lo hace útil en condiciones de poca o mucha iluminación, como interiores y exteriores.[^2]
+Rango de Lectura: El BH1750 puede medir niveles de luz desde 0.11 lux hasta 100,000 lux, lo que lo hace útil en condiciones de poca o mucha iluminación, como interiores y exteriores.[^3]
 
 </div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/6723bc22-7850-4065-91c7-e951c3d9b1e7" alt="Sensor Turbidez" width="300">
@@ -136,7 +136,7 @@ Tabla de guia de los valores de luz
 
 - Sensor de conductividad TDS
 
-El sensor de conductividad TDS funciona mediante la medición de la conductividad eléctrica del agua. Cuanta más salinidad tenga el agua, mayor será su conductividad. Hay dos métodos para realizar la medición: El método conductivo que usa electrodos que tiene contacto directo con el agua y el método inductivo que usa bobinas para crear un campo magnético. El método inductivo mide la conductividad sin tener contacto con el agua directamente, eso reduce problemas de corrosión y limpieza , haciéndolo ideal para un monitoreo porlogando.[^3]
+El sensor de conductividad TDS funciona mediante la medición de la conductividad eléctrica del agua. Cuanta más salinidad tenga el agua, mayor será su conductividad. Hay dos métodos para realizar la medición: El método conductivo que usa electrodos que tiene contacto directo con el agua y el método inductivo que usa bobinas para crear un campo magnético. El método inductivo mide la conductividad sin tener contacto con el agua directamente, eso reduce problemas de corrosión y limpieza , haciéndolo ideal para un monitoreo porlogando.[^4]
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/da11b163-c9cf-4ce8-8c9d-19c59e127b7d" width="350" />
