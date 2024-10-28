@@ -160,11 +160,13 @@ Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza 
 
 
 
-# **TRL-2: Concepto y/o aplicación tecnológica formulada**
+Objetivo de TRL-2: 
 
-- 1
-- 2
-- 3
+- 1Funcionamiento general del sistema: El sistema de destilación solar dentro de una esfera transparente permitirá evaporar el agua de mar con la radiacíón solar. Los sensores mediran en tiempo real  los siguientes parametros clave: 
+  
+- 1 Producción de agua destilada:  Medición del flujo acumulado  y la cantidad total de agua acumulada
+  
+- 2 Radiación solar: Determinar cuanta eficiencia ha recibido la esfera, esto para evaluar la eficiencia de la 
 - 4
 - 5
 - 6
