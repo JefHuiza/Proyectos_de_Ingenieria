@@ -158,9 +158,10 @@ Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza 
 
 [^3]:Parra, L., Sendra, S., Lloret, J., & Bosch, I. (2015). Development of a conductivity sensor for monitoring groundwater resources to optimize water management in smart city environments. Sensors, 15(9), 20990-21015.
 
+**¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
 
 # **Bibliografía**
- [^0]:Naciones Unidas (2018), La Agenda 2030 y los Objetivos de Desarrollo Sostenible: una oportunidad para América Latina y el Caribe (LC/G.
+[^0]:Naciones Unidas (2018), La Agenda 2030 y los Objetivos de Desarrollo Sostenible: una oportunidad para América Latina y el Caribe (LC/G.
 
 
-**¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
+
