@@ -22,9 +22,9 @@ En la actualidad, uno de los problemas más críticos a nivel mundial es el acce
 
 **OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef3ad11d-1da3-46ae-bb1c-2b513f35e2d1" alt="Imagen 1" width="200px" />
-  <img src="https://github.com/user-attachments/assets/fd9a81b6-900a-44ea-9644-73f6422a9856" alt="Imagen 2" width="200px" />
-  <img src="https://github.com/user-attachments/assets/94e057c3-785a-41a0-b661-d82e6e900cfa" alt="Imagen 3" width="200px" />
+  <img src="https://github.com/user-attachments/assets/ef3ad11d-1da3-46ae-bb1c-2b513f35e2d1" alt="Imagen 1" width="200px" />[^0]
+  <img src="https://github.com/user-attachments/assets/fd9a81b6-900a-44ea-9644-73f6422a9856" alt="Imagen 2" width="200px" />[^0]
+  <img src="https://github.com/user-attachments/assets/94e057c3-785a-41a0-b661-d82e6e900cfa" alt="Imagen 3" width="200px" />[^0]
 </p>
 
 >United Nations Web
@@ -160,9 +160,7 @@ Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza 
 
 
 # **Bibliografía**
-  - ODS 6 Agua limpia y saneamiento . (2021, 11 de octubre). Pacto Mundial. https://www.pactomundial.org/ods/6-agua-limpia-y-saneamiento/
-  - Energía asequible y no contaminante . (s/f). Agenda2030lac.org. Recuperado el 1 de septiembre de 2024, de https://agenda2030lac.org/es/ods/7-energia-asequible-y-no-contaminante
-  - ODS 11 Ciudades y comunidades sostenibles | Pacto Mundial ONU. (2024, 1 agosto). Pacto Mundial. https://www.pactomundial.org/ods/11-ciudades-y-comunidades-sostenibles/
+ [^0]:Naciones Unidas (2018), La Agenda 2030 y los Objetivos de Desarrollo Sostenible: una oportunidad para América Latina y el Caribe (LC/G.
 
 
 **¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
