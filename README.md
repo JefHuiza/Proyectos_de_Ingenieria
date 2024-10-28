@@ -64,7 +64,7 @@ El pH se mide evaluando el potencial eléctrico generado por un electrodo, que l
 
 _Fig. 2. Esquema de electrodo de calomel saturado y de vidrio_
 
-[^1]: Ciganda, L. M., Quim, I., & Bussi, J. (2004). Electrodos para medir pH (Junio 2004). In _Monografía vinculada a la conferencia del Ing. Quim. Juan Bussi: “Biosensores para determinaciones analíticas”_, del (Vol. 20).
+[^2]: Ciganda, L. M., Quim, I., & Bussi, J. (2004). Electrodos para medir pH (Junio 2004). In _Monografía vinculada a la conferencia del Ing. Quim. Juan Bussi: “Biosensores para determinaciones analíticas”_, del (Vol. 20).
 
 - Sensor de caudal de agua YS-201:
 
@@ -132,7 +132,7 @@ Tabla de guia de los valores de luz
   <img src="https://github.com/user-attachments/assets/19d4d94d-129a-45f2-8707-2d74bdb236a2" alt="Sensor Turbidez" width="300">
 </p>
   
-[^2]: Guerrero-Escobedo, A. E., Vásquez-Blas, C., Reyes-Lázaro, W., Wong-López, E. S., & Verde-Luján, H. E. (2022). Ensamblaje, calibración y puesta a prueba de sensor de turbidez de bajo costo para monitoreo de calidad de agua. QuanTUNAB, 1(2), e16. https://doi.org/10.52807/qunab.v1i2.16
+[^3]: Guerrero-Escobedo, A. E., Vásquez-Blas, C., Reyes-Lázaro, W., Wong-López, E. S., & Verde-Luján, H. E. (2022). Ensamblaje, calibración y puesta a prueba de sensor de turbidez de bajo costo para monitoreo de calidad de agua. QuanTUNAB, 1(2), e16. https://doi.org/10.52807/qunab.v1i2.16
 
 - Sensor de conductividad TDS
 
@@ -156,12 +156,11 @@ Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza 
   <img src="https://github.com/user-attachments/assets/c33d6896-bf9d-4a40-bb96-0fd1d6d53ff6" width="350" />
 </div>
 
-[^3]:Parra, L., Sendra, S., Lloret, J., & Bosch, I. (2015). Development of a conductivity sensor for monitoring groundwater resources to optimize water management in smart city environments. Sensors, 15(9), 20990-21015.
+[^4]:Parra, L., Sendra, S., Lloret, J., & Bosch, I. (2015). Development of a conductivity sensor for monitoring groundwater resources to optimize water management in smart city environments. Sensors, 15(9), 20990-21015.
 
 **¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
 
 # **Bibliografía**
-[^0]:Naciones Unidas (2018), La Agenda 2030 y los Objetivos de Desarrollo Sostenible: una oportunidad para América Latina y el Caribe (LC/G.
-
+[^1]:Naciones Unidas (2018), La Agenda 2030 y los Objetivos de Desarrollo Sostenible: una oportunidad para América Latina y el Caribe (LC/G.
 
 
