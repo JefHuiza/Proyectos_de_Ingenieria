@@ -160,7 +160,7 @@ Desarrollando el cálculo de la inductancia mutua entre dos bobinas y la fuerza 
 
 
 
-# **TRL-1: Funcionamiento de los sensores**
+# **TRL-2: Concepto y/o aplicación tecnológica formulada**
 
 - 1
 - 2
